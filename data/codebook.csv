@@ -1,0 +1,195 @@
+dataset,variable,description,unit,source
+panel_h1.csv,region_code,Two-digit region code (72 and 29 include their autonomous okrugs),,author
+panel_h1.csv,region_name,Region name,,author
+panel_h1.csv,year,Year,,
+panel_h1.csv,rev_total,Consolidated regional budget revenue,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,rev_tax_nontax,Tax and non-tax revenue,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,rev_grants_all,"Grants and transfers received, total","RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,rev_from_budgets,Transfers from other budgets,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,dot_all,"Grants (dotatsii), total","RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,dot_equal,Equalization grants,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,dot_balance,Budget-balancing grants,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,dot_wage_comp,Grants compensating public-sector wage increases,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,kpi_grants,Performance (KPI) grants,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,subsidies,Subsidies (targeted transfers),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,subventions,Subventions (delegated mandates),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,other_mbt,Other intergovernmental transfers,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_total,Total expenditure,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0500,Housing and communal services expenditure (section 0500),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0501,Housing (0501),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0502,Communal services (0502),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0503,Urban amenities (0503),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0504,Applied research in housing and utilities (0504),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0505,Other housing and utilities (0505),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,tax_total_fns,Tax receipts collected on the territory (line 1010),"RUB, nominal","FNS, form 1-NM"
+panel_h1.csv,tax_to_federal_fns,of which to the federal budget,"RUB, nominal","FNS, form 1-NM"
+panel_h1.csv,tax_to_regional_fns,of which to the consolidated regional budget,"RUB, nominal","FNS, form 1-NM"
+panel_h1.csv,tax_to_local_fns,of which to local budgets,"RUB, nominal","FNS, form 1-NM"
+panel_h1.csv,duma_regime_share,"State Duma election, latest at or before year t (not used in the paper): regime share",share,CEC via github.com/dkobak/elections
+panel_h1.csv,duma_turnout,"State Duma election, latest at or before year t (not used in the paper): turnout",share,CEC via github.com/dkobak/elections
+panel_h1.csv,duma_home_vote_share,"State Duma election, latest at or before year t (not used in the paper): home vote share",share,CEC via github.com/dkobak/elections
+panel_h1.csv,duma_election_year,"State Duma election, latest at or before year t (not used in the paper): election year",year,CEC via github.com/dkobak/elections
+panel_h1.csv,president_regime_share,"Presidential election, latest at or before year t (not used in the paper): regime share",share,CEC via github.com/dkobak/elections
+panel_h1.csv,president_turnout,"Presidential election, latest at or before year t (not used in the paper): turnout",share,CEC via github.com/dkobak/elections
+panel_h1.csv,president_home_vote_share,"Presidential election, latest at or before year t (not used in the paper): home vote share",share,CEC via github.com/dkobak/elections
+panel_h1.csv,president_election_year,"Presidential election, latest at or before year t (not used in the paper): election year",year,CEC via github.com/dkobak/elections
+panel_h1.csv,heat_accidents,Accidents in heat networks (not used: comparability),count,"Rosstat, housing statistics"
+panel_h1.csv,heat_damage_per_km_minenergo,Damage per km of networks,per km,Ministry of Energy
+panel_h1.csv,heat_dilapidated_km,Dilapidated heat networks,km,EMISS
+panel_h1.csv,heat_dilapidated_share_minenergo2022,"Share of dilapidated networks, 2022",%,Ministry of Energy
+panel_h1.csv,heat_len_km,Length of heat networks (Rosstat),km,"Rosstat, housing statistics"
+panel_h1.csv,heat_loss_pct,"Heat losses in networks, share of heat supplied",%,"Rosstat, housing statistics"
+panel_h1.csv,heat_need_replace_km,Heat networks in need of replacement (Rosstat),km,"Rosstat, housing statistics"
+panel_h1.csv,heat_need_replace_share,Share of networks in need of replacement (Rosstat),%,"Rosstat, housing statistics"
+panel_h1.csv,heat_replaced_dilapidated_km,Dilapidated networks replaced,km,"Rosstat, housing statistics"
+panel_h1.csv,heat_replaced_km,Networks replaced during the year (Rosstat),km,"Rosstat, housing statistics"
+panel_h1.csv,population_thous_consistent,"Average population, census-consistent series",thousand,"Rosstat, Regions of Russia"
+panel_h1.csv,pop_census_break,1 from 2020 (post-census recount),0/1,"Rosstat, Regions of Russia"
+panel_h1.csv,grp_mln,"Gross regional product, current prices",RUB mln,"Rosstat, Regions of Russia"
+panel_h1.csv,cpi_dec_dec,"Regional CPI, December on December",index,Rosstat CPI
+panel_h1.csv,cpi_index_2010_100,Cumulative regional CPI,2010 = 100,Rosstat CPI
+panel_h1.csv,mining_share_gva_2010,"Mining share of GVA, 2010",%,"Rosstat, Regions of Russia"
+panel_h1.csv,edu_health_emp_share_2011,"Employment share in education and health, 2011",%,"Rosstat, Regions of Russia"
+panel_h1.csv,fed_district_2023,Federal district (2023 borders),,author
+panel_h1.csv,ln_dist_moscow,"ln(1 + distance from Moscow, km)",log,author
+panel_h1.csv,trans_share,"Transfers from other budgets, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,own_share,"Own (tax and non-tax) revenue, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,dot_equal_share,"Equalization grants, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,dot_balance_share,"Balancing grants, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,subsidies_share,"Subsidies, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,subventions_share,"Subventions, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,other_mbt_share,"Other transfers, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,discretionary_share,"Discretionary transfers (balancing grants + other transfers), share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,jkh_exp_share,"Housing and communal services (0500), share of expenditure",%,"Federal Treasury, form 0503317"
+panel_h1.csv,communal_exp_share,"Communal services (0502), share of expenditure",%,"Federal Treasury, form 0503317"
+panel_h1.csv,fed_tax_share,Share of territorial tax receipts paid to the federal budget (NaN if totals are negative),%,"FNS, form 1-NM"
+panel_h1.csv,fed_tax_share_negative_flag,1 if federal receipts are negative (VAT refunds),0/1,"FNS, form 1-NM"
+panel_h1.csv,exp_0502_pc_real,Communal services expenditure per capita,"RUB, 2010 prices","Federal Treasury, form 0503317"
+panel_h1.csv,exp_0500_pc_real,Housing and communal services expenditure per capita,"RUB, 2010 prices","Federal Treasury, form 0503317"
+panel_h1.csv,rev_total_pc_real,Revenue per capita,"RUB, 2010 prices","Federal Treasury, form 0503317"
+panel_h1.csv,net_fiscal_outflow_pc_real,"Federal tax receipts minus transfers received, per capita","RUB, 2010 prices",author
+panel_h1.csv,grp_pc_real,GRP per capita,"RUB, 2010 prices","Rosstat, Regions of Russia"
+panel_h1.csv,ln_grp_pc_real,ln GRP per capita,log,"Rosstat, Regions of Russia"
+panel_h1.csv,heat_replaced_share,"Networks replaced, share of length (Rosstat survey years)",%,"Rosstat, housing statistics"
+panel_h1.csv,jkh_infra,Transfers for utility infrastructure and water supply,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,urban_env,Transfers for the urban environment,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,jkh_social,Subventions for utility payments of eligible groups,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,housing_build,Transfers for housing construction,"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,state_corp,Receipts from state corporations (code 2 03),"RUB, nominal","Federal Treasury, form 0503317"
+panel_h1.csv,jkh_infra_tr_share,"Utility infrastructure transfers, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,urban_env_tr_share,"Urban environment transfers, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,jkh_social_tr_share,"Utility payment subventions, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,housing_build_tr_share,"Housing construction transfers, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,state_corp_tr_share,"State corporation receipts, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,jkh_targeted_tr_share,"Targeted utility transfers (infrastructure + urban environment + state corporations), share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,trans_nonjkh_share,"Transfers other than targeted utility transfers, share of revenue",%,"Federal Treasury, form 0503317"
+panel_h1.csv,e_heat_dilapidated_km_all,"EMISS, dilapidated networks, ownership: all",km,EMISS
+panel_h1.csv,e_heat_len_km_all,"EMISS, length of heat networks, ownership: all",km,EMISS
+panel_h1.csv,e_heat_len_km_municipal,"EMISS, length of heat networks, ownership: municipal",km,EMISS
+panel_h1.csv,e_heat_len_km_private,"EMISS, length of heat networks, ownership: private",km,EMISS
+panel_h1.csv,e_heat_len_km_state,"EMISS, length of heat networks, ownership: state",km,EMISS
+panel_h1.csv,e_heat_loss_gcal_thous_all,"EMISS, heat losses, ownership: all",thousand Gcal,EMISS
+panel_h1.csv,e_heat_loss_gcal_thous_municipal,"EMISS, heat losses, ownership: municipal",thousand Gcal,EMISS
+panel_h1.csv,e_heat_loss_gcal_thous_private,"EMISS, heat losses, ownership: private",thousand Gcal,EMISS
+panel_h1.csv,e_heat_loss_gcal_thous_state,"EMISS, heat losses, ownership: state",thousand Gcal,EMISS
+panel_h1.csv,e_heat_need_replace_km_all,"EMISS, networks in need of replacement, ownership: all",km,EMISS
+panel_h1.csv,e_heat_need_replace_km_municipal,"EMISS, networks in need of replacement, ownership: municipal",km,EMISS
+panel_h1.csv,e_heat_need_replace_km_private,"EMISS, networks in need of replacement, ownership: private",km,EMISS
+panel_h1.csv,e_heat_need_replace_km_state,"EMISS, networks in need of replacement, ownership: state",km,EMISS
+panel_h1.csv,e_heat_replaced_km_all,"EMISS, networks replaced, ownership: all",km,EMISS
+panel_h1.csv,e_heat_replaced_km_municipal,"EMISS, networks replaced, ownership: municipal",km,EMISS
+panel_h1.csv,e_heat_replaced_km_private,"EMISS, networks replaced, ownership: private",km,EMISS
+panel_h1.csv,e_heat_replaced_km_regional_prop,"EMISS, networks replaced, ownership: regional_prop",km,EMISS
+panel_h1.csv,e_heat_replaced_km_state,"EMISS, networks replaced, ownership: state",km,EMISS
+panel_h1.csv,heat_len_km_best,"Length of heat networks, best available source",km,EMISS
+panel_h1.csv,heat_need_share_emiss,Share of networks in need of replacement (EMISS),%,EMISS
+panel_h1.csv,heat_replaced_share_emiss,"Networks replaced during the year, share of length (EMISS)",%,EMISS
+panel_h1.csv,net_municipal_share,"Municipally owned networks, share of length",%,EMISS
+panel_h1.csv,net_private_share,"Privately owned networks, share of length",%,EMISS
+panel_h1.csv,heat_rate,"Heat price index, December on December (m2 to 2013, Gcal from 2014)",index,EMISS
+panel_h1.csv,heat_price_index_2010_100,Cumulative heat price index,2010 = 100,EMISS
+panel_h1.csv,ln_real_heat_price,ln(heat price index / regional CPI),log,EMISS
+panel_h1.csv,hdd,"Heating degree-days (days below 8 C, scaled to 365 days; years with >= 300 observed days)",C-days,NOAA GHCN-Daily
+panel_h1.csv,t_jan,Mean January temperature,C,NOAA GHCN-Daily
+panel_h1.csv,hdd_station_km,Distance from regional capital to the weather station,km,NOAA GHCN-Daily
+panel_h1.csv,price_zone_region,1 from the year the first heat price zone in the region started,0/1,Ministry of Energy
+city_panel_bdpmo.csv,oktmo_stable,Stable OKTMO code of the urban okrug,,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,year,Year,,
+city_panel_bdpmo.csv,mun_heat_len_m,Length of heat networks,m,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_heat_need_m,Heat networks in need of replacement,m,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_housing_m2,Housing commissioned,m2,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_population,Average population,persons,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_water_need_m,Water networks in need of replacement,m,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,roads_local_substandard_share,Local roads not meeting standards (Decree 607 indicator),%,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,n_units_merged,Municipal units merged under one stable OKTMO,count,author
+city_panel_bdpmo.csv,mun_capinv_jkh,Budget investment in housing and utilities (2008-2012),RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_exp_govt,Local expenditure: general government,RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_exp_jkh,Local spending: housing and communal services,RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_exp_natecon,Local expenditure: national economy,RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_exp_roads,Local expenditure: roads,RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_exp_total,"Local expenditure, total",RUB,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,region_code,Region code,,author
+city_panel_bdpmo.csv,municipality,Municipality name,,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,cpi_index_2010_100,Regional CPI,2010 = 100,Rosstat CPI
+city_panel_bdpmo.csv,mun_exp_total_pc_real,Local expenditure per capita,"RUB, 2010 prices",author
+city_panel_bdpmo.csv,mun_exp_jkh_pc_real,Housing and communal services expenditure per capita,"RUB, 2010 prices",author
+city_panel_bdpmo.csv,mun_exp_roads_pc_real,Road expenditure per capita,"RUB, 2010 prices",author
+city_panel_bdpmo.csv,mun_jkh_exp_share,"Communal services (housing and communal services), share of local spending (to 2020)",%,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_roads_exp_share,"Roads, share of local expenditure (to 2020)",%,Municipal Indicators Database (BDPMO) via tochno.st
+city_panel_bdpmo.csv,mun_heat_need_share,Share of heat networks in need of replacement,%,Municipal Indicators Database (BDPMO) via tochno.st
+mayors_treatment_v2.csv,city_id,City identifier (as in Reuter et al. and Buckley et al. replication data),,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment_v2.csv,year_transition,"First year of the last continuous period with an indirectly selected head, to 2018 (NaN: elected in 2018)",year,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment_v2.csv,status_2018,Selection method in 2018,,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment_v2.csv,bbr_cancel_year,Year of the legal decision to cancel direct elections,year,"Beazer, Buckley and Reuter (2026)"
+mayors_treatment_v2.csv,bbr_cancel_month,Month of that decision,month,"Beazer, Buckley and Reuter (2026)"
+mayors_treatment_v2.csv,city,City name,,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment_v2.csv,region_code,Region code,,author
+mayors_treatment_v2.csv,capitol,1 if regional capital,0/1,author
+mayors_treatment_v2.csv,oktmo_stable,Stable OKTMO code,,author
+mayors_treatment_v2.csv,bdpmo_name,Municipality name in the Municipal Indicators Database,,Municipal Indicators Database (BDPMO) via tochno.st
+mayors_treatment_v2.csv,pop_logdiff,Log population difference between sources (match check),log,author
+mayors_treatment_v2.csv,in_h2_sample,Matched to an urban okrug with population agreement within 15%,bool,author
+mayors_treatment_v2.csv,date_new_head_in_office,Date the first indirectly selected head took office,date,author
+mayors_treatment_v2.csv,year_transition_v2,Corrected year of the first indirectly selected head (NaN: no transition by 2024); used in the paper,year,author
+mayors_treatment_v2.csv,corrected,1 if the corrected year differs from year_transition,bool,author
+mayors_treatment_v2.csv,coding_note,Coding source,,author
+mayors_treatment.csv,city_id,City identifier (as in Reuter et al. and Buckley et al. replication data),,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment.csv,year_transition,"First year of the last continuous period with an indirectly selected head, to 2018 (NaN: elected in 2018)",year,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment.csv,status_2018,Selection method in 2018,,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment.csv,bbr_cancel_year,Year of the legal decision to cancel direct elections,year,"Beazer, Buckley and Reuter (2026)"
+mayors_treatment.csv,bbr_cancel_month,Month of that decision,month,"Beazer, Buckley and Reuter (2026)"
+mayors_treatment.csv,city,City name,,Reuter et al. (2016); Buckley et al. (2021)
+mayors_treatment.csv,region_code,Region code,,author
+mayors_treatment.csv,capitol,1 if regional capital,0/1,author
+mayors_treatment.csv,oktmo_stable,Stable OKTMO code,,author
+mayors_treatment.csv,bdpmo_name,Municipality name in the Municipal Indicators Database,,Municipal Indicators Database (BDPMO) via tochno.st
+mayors_treatment.csv,pop_logdiff,Log population difference between sources (match check),log,author
+mayors_treatment.csv,in_h2_sample,Matched to an urban okrug with population agreement within 15%,bool,author
+mayors_appointed_panel.csv,city,City name,,Reuter et al. (2016); Buckley et al. (2021)
+mayors_appointed_panel.csv,city_id,City identifier (as in Reuter et al. and Buckley et al. replication data),,Reuter et al. (2016); Buckley et al. (2021)
+mayors_appointed_panel.csv,year,Year,,
+mayors_appointed_panel.csv,appointed,1 if the head is appointed or selected by the council,0/1,Reuter et al. (2016); Buckley et al. (2021)
+mayors_appointed_panel.csv,oktmo_stable,Stable OKTMO code,,author
+mayors_appointed_panel.csv,region_code,Region code,,author
+emiss_heat_long.csv,level,region or capital (administrative center),,EMISS
+emiss_heat_long.csv,region_code,Region code,,EMISS
+emiss_heat_long.csv,name,Region or city name,,EMISS
+emiss_heat_long.csv,ownership,"all, state, municipal, private, regional_prop",,EMISS
+emiss_heat_long.csv,year,Year,,
+emiss_heat_long.csv,variable,"heat_len_km, heat_need_replace_km, heat_loss_gcal_thous, heat_replaced_km, heat_dilapidated_km",,EMISS
+emiss_heat_long.csv,value,Value,see variable,EMISS
+price_zones_heat.csv,n,Row number in the source table,,Ministry of Energy
+price_zones_heat.csv,municipality,Municipality,,Ministry of Energy
+price_zones_heat.csv,decree_date,Date of the government decree,date,Ministry of Energy
+price_zones_heat.csv,decree_no,Decree number,,Ministry of Energy
+price_zones_heat.csv,start_date,Start of the target model,date,Ministry of Energy
+price_zones_heat.csv,transitional,Transitional period,bool,Ministry of Energy
+price_zones_heat.csv,eto_company,Unified heat supply organization,,Ministry of Energy
+price_zones_heat.csv,oktmo_stable,Stable OKTMO (urban okrugs only),,author
+price_zones_heat.csv,region_code,Region code,,author
+price_zones_heat.csv,bdpmo_name,Name in the Municipal Indicators Database,,Municipal Indicators Database (BDPMO) via tochno.st
+price_zones_heat.csv,start_year,Start year,year,Ministry of Energy
+price_zones_heat.csv,note,Note,,author
+price_zones_heat.csv,city_id,City identifier (if matched to the mayor data),,author
+price_zones_heat.csv,in_h2_sample,City is in the municipal analysis sample,bool,author
+price_zones_heat.csv,year_transition,Year of transition to an indirectly selected head (original coding),year,Reuter et al. (2016); Buckley et al. (2021)

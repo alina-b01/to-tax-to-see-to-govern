@@ -1,0 +1,13 @@
+statistic,value
+annual_changes,1055.0
+jumps_gt20pp,100.0
+jump_share,0.0947867298578199
+cities_with_jump,52.0
+cities,121.0
+length_change_lt5,62.0
+length_change_5_20,20.0
+length_change_gt20,18.0
+stable_length_need_ratio_gt2_or_lt05,0.8064516129032258
+jumps_up,0.54
+reversal_within_2y,0.37
+reversal_within_2y_by_2018,0.36

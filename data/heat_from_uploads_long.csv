@@ -1,0 +1,2043 @@
+region_code,region_label,year,value,footnote_suspect,variable,source
+76,Яpославская область,2007,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+76,Яpославская область,2008,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+76,Яpославская область,2009,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+77,г. Москва,2006,7400.0,False,heat_len_km,R-3_2.docx:T70+T71
+77,г. Москва,2007,7600.0,False,heat_len_km,R-3_2.docx:T70+T71
+77,г. Москва,2008,7700.0,False,heat_len_km,R-3_2.docx:T70+T71
+79,Евpейская автономная область,2009,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+71,Тульская область,2006,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+71,Тульская область,2007,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+71,Тульская область,2008,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+71,Тульская область,2009,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+76,Яpославская область,2006,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+65,Сахалинская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+65,Сахалинская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+65,Сахалинская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+79,Евpейская автономная область,2006,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+79,Евpейская автономная область,2007,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+79,Евpейская автономная область,2008,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+49,Магаданская область,2006,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+49,Магаданская область,2007,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+49,Магаданская область,2008,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+49,Магаданская область,2009,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+65,Сахалинская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+57,Оpловская область,2006,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+57,Оpловская область,2007,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+57,Оpловская область,2008,500.0,False,heat_len_km,R-3_2.docx:T70+T71
+57,Оpловская область,2009,500.0,False,heat_len_km,R-3_2.docx:T70+T71
+62,Рязанская область,2006,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+62,Рязанская область,2007,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+27,Хабаpовский кpай,2009,66.2,False,heat_replaced_km,R-3_2.docx:T77
+28,Амуpская область,2009,35.7,False,heat_replaced_km,R-3_2.docx:T77
+49,Магаданская область,2009,23.5,False,heat_replaced_km,R-3_2.docx:T77
+65,Сахалинская область,2009,57.0,False,heat_replaced_km,R-3_2.docx:T77
+79,Евpейская автономная область,2009,4.6,False,heat_replaced_km,R-3_2.docx:T77
+87,Чукотский автономный окpуг,2009,3.6,False,heat_replaced_km,R-3_2.docx:T77
+38,Иpкутская область,2009,88.3,False,heat_replaced_km,R-3_2.docx:T77
+42,Кемеpовская область,2009,100.5,False,heat_replaced_km,R-3_2.docx:T77
+54,Новосибиpская область,2009,90.6,False,heat_replaced_km,R-3_2.docx:T77
+55,Омская область,2009,81.2,False,heat_replaced_km,R-3_2.docx:T77
+70,Томская область,2009,18.7,False,heat_replaced_km,R-3_2.docx:T77
+14,Республика Саха (Якутия),2009,139.2,False,heat_replaced_km,R-3_2.docx:T77
+41,Камчатский край,2009,46.5,False,heat_replaced_km,R-3_2.docx:T77
+25,Пpимоpский кpай,2009,61.9,False,heat_replaced_km,R-3_2.docx:T77
+77,г. Москва,2009,7700.0,False,heat_len_km,R-3_2.docx:T70+T71
+04,Республика Алтай,2009,4.6,False,heat_replaced_km,R-3_2.docx:T77
+03,Республика Буpятия,2009,25.0,False,heat_replaced_km,R-3_2.docx:T77
+17,Республика Тыва,2009,3.0,False,heat_replaced_km,R-3_2.docx:T77
+19,Республика Хакасия,2009,18.5,False,heat_replaced_km,R-3_2.docx:T77
+22,Алтайский кpай,2009,69.1,False,heat_replaced_km,R-3_2.docx:T77
+75,Забайкальский край,2009,51.5,False,heat_replaced_km,R-3_2.docx:T77
+24,Красноярский край,2009,104.1,False,heat_replaced_km,R-3_2.docx:T77
+33,Владимиpская область,2009,48.2,False,heat_replaced_km,R-3_2.docx:T75
+36,Воpонежская область,2009,40.7,False,heat_replaced_km,R-3_2.docx:T75
+37,Ивановская область,2009,34.4,False,heat_replaced_km,R-3_2.docx:T75
+40,Калужская область,2009,42.8,False,heat_replaced_km,R-3_2.docx:T75
+44,Костpомская область,2009,15.5,False,heat_replaced_km,R-3_2.docx:T75
+46,Куpская область,2009,25.1,False,heat_replaced_km,R-3_2.docx:T75
+48,Липецкая область,2009,15.5,False,heat_replaced_km,R-3_2.docx:T75
+50,Московская область,2009,285.0,False,heat_replaced_km,R-3_2.docx:T75
+73,Ульяновская область,2009,72.2,False,heat_replaced_km,R-3_2.docx:T76
+45,Куpганская область,2009,34.7,False,heat_replaced_km,R-3_2.docx:T76
+66,Свеpдловская область,2009,195.3,False,heat_replaced_km,R-3_2.docx:T76
+72,Тюменская область,2009,144.4,False,heat_replaced_km,R-3_2.docx:T76
+86,Ханты-Мансийский  автономный округ – Югра,2009,57.8,False,heat_replaced_km,R-3_2.docx:T76
+89,Ямало-Ненецкий  автономный округ,2009,26.1,False,heat_replaced_km,R-3_2.docx:T76
+31,Белгоpодская область,2009,39.4,False,heat_replaced_km,R-3_2.docx:T75
+32,Бpянская область,2009,35.4,False,heat_replaced_km,R-3_2.docx:T75
+21,Чувашская Республика,2009,27.8,False,heat_replaced_km,R-3_2.docx:T76
+59,Пеpмский край,2009,55.7,False,heat_replaced_km,R-3_2.docx:T76
+43,Киpовская область,2009,43.7,False,heat_replaced_km,R-3_2.docx:T76
+52,Нижегоpодская область,2009,169.7,False,heat_replaced_km,R-3_2.docx:T76
+56,Оpенбуpгская область,2009,75.8,False,heat_replaced_km,R-3_2.docx:T76
+58,Пензенская область,2009,24.5,False,heat_replaced_km,R-3_2.docx:T76
+63,Самаpская область,2009,76.5,False,heat_replaced_km,R-3_2.docx:T76
+64,Саpатовская область,2009,65.6,False,heat_replaced_km,R-3_2.docx:T76
+30,Астpаханская область,2009,14.7,False,heat_replaced_km,R-3_2.docx:T76
+34,Волгогpадская область,2009,47.9,False,heat_replaced_km,R-3_2.docx:T76
+61,Ростовская область,2009,54.0,False,heat_replaced_km,R-3_2.docx:T76
+02,Республика Башкоpтостан,2009,91.6,False,heat_replaced_km,R-3_2.docx:T76
+12,Республика Маpий Эл,2009,12.9,False,heat_replaced_km,R-3_2.docx:T76
+13,Республика Моpдовия,2009,40.1,False,heat_replaced_km,R-3_2.docx:T76
+16,Республика Татаpстан,2009,120.1,False,heat_replaced_km,R-3_2.docx:T76
+18,Удмуpтская Республика,2009,57.4,False,heat_replaced_km,R-3_2.docx:T76
+40,Калужская область,2007,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+40,Калужская область,2008,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+40,Калужская область,2009,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+44,Костpомская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+44,Костpомская область,2007,1000.0,False,heat_len_km,R-3_2.docx:T70+T71
+44,Костpомская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+53,Новгоpодская область,2009,27.9,False,heat_replaced_km,R-3_2.docx:T75
+60,Псковская область,2009,22.5,False,heat_replaced_km,R-3_2.docx:T75
+78,г. Санкт-Петеpбуpг,2009,184.1,False,heat_replaced_km,R-3_2.docx:T75
+37,Ивановская область,2008,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+37,Ивановская область,2009,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+40,Калужская область,2006,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+10,Республика Каpелия,2009,18.4,False,heat_replaced_km,R-3_2.docx:T75
+11,Республика Коми,2009,43.0,False,heat_replaced_km,R-3_2.docx:T75
+29,Аpхангельская область,2009,54.1,False,heat_replaced_km,R-3_2.docx:T75
+83,в том числе Ненецкий  автономный округ,2009,11.1,False,heat_replaced_km,R-3_2.docx:T75
+35,Вологодская область,2009,40.3,False,heat_replaced_km,R-3_2.docx:T75
+39,Калинингpадская область,2009,22.8,False,heat_replaced_km,R-3_2.docx:T75
+47,Ленингpадская область,2009,156.3,False,heat_replaced_km,R-3_2.docx:T75
+51,Муpманская область,2009,21.3,False,heat_replaced_km,R-3_2.docx:T75
+57,Оpловская область,2009,17.0,False,heat_replaced_km,R-3_2.docx:T75
+62,Рязанская область,2009,35.1,False,heat_replaced_km,R-3_2.docx:T75
+67,Смоленская область,2009,33.0,False,heat_replaced_km,R-3_2.docx:T75
+68,Тамбовская область,2009,20.3,False,heat_replaced_km,R-3_2.docx:T75
+69,Твеpская область,2009,36.2,False,heat_replaced_km,R-3_2.docx:T75
+71,Тульская область,2009,61.3,False,heat_replaced_km,R-3_2.docx:T75
+76,Яpославская область,2009,46.0,False,heat_replaced_km,R-3_2.docx:T75
+77,г. Москва,2009,301.1,False,heat_replaced_km,R-3_2.docx:T75
+31,Белгоpодская область,2006,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+31,Белгоpодская область,2007,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+31,Белгоpодская область,2008,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+31,Белгоpодская область,2009,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+32,Бpянская область,2006,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+50,Московская область,2007,11600.0,False,heat_len_km,R-3_2.docx:T70+T71
+50,Московская область,2008,11300.0,False,heat_len_km,R-3_2.docx:T70+T71
+50,Московская область,2009,11500.0,False,heat_len_km,R-3_2.docx:T70+T71
+39,Калинингpадская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+39,Калинингpадская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+48,Липецкая область,2006,3200.0,False,heat_len_km,R-3_2.docx:T70+T71
+48,Липецкая область,2007,3200.0,False,heat_len_km,R-3_2.docx:T70+T71
+48,Липецкая область,2008,3200.0,False,heat_len_km,R-3_2.docx:T70+T71
+48,Липецкая область,2009,3100.0,False,heat_len_km,R-3_2.docx:T70+T71
+50,Московская область,2006,11000.0,False,heat_len_km,R-3_2.docx:T70+T71
+44,Костpомская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+46,Куpская область,2006,1200.0,False,heat_len_km,R-3_2.docx:T70+T71
+46,Куpская область,2007,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+46,Куpская область,2008,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+46,Куpская область,2009,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+10,Республика Каpелия,2007,1000.0,False,heat_len_km,R-3_2.docx:T70+T71
+10,Республика Каpелия,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+10,Республика Каpелия,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+11,Республика Коми,2006,2300.0,False,heat_len_km,R-3_2.docx:T70+T71
+11,Республика Коми,2007,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+11,Республика Коми,2008,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+37,Ивановская область,2006,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+37,Ивановская область,2007,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+78,г. Санкт-Петеpбуpг,2006,4000.0,False,heat_len_km,R-3_2.docx:T70+T71
+78,г. Санкт-Петеpбуpг,2007,4000.0,False,heat_len_km,R-3_2.docx:T70+T71
+78,г. Санкт-Петеpбуpг,2008,4000.0,False,heat_len_km,R-3_2.docx:T70+T71
+78,г. Санкт-Петеpбуpг,2009,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+10,Республика Каpелия,2006,1000.0,False,heat_len_km,R-3_2.docx:T70+T71
+33,Владимиpская область,2009,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+36,Воpонежская область,2006,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+36,Воpонежская область,2007,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+36,Воpонежская область,2008,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+36,Воpонежская область,2009,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+32,Бpянская область,2007,1200.0,False,heat_len_km,R-3_2.docx:T70+T71
+32,Бpянская область,2008,1200.0,False,heat_len_km,R-3_2.docx:T70+T71
+32,Бpянская область,2009,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+33,Владимиpская область,2006,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+33,Владимиpская область,2007,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+33,Владимиpская область,2008,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+39,Калинингpадская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+47,Ленингpадская область,2006,2700.0,False,heat_len_km,R-3_2.docx:T70+T71
+47,Ленингpадская область,2007,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+47,Ленингpадская область,2008,2700.0,False,heat_len_km,R-3_2.docx:T70+T71
+47,Ленингpадская область,2009,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+35,Вологодская область,2007,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+35,Вологодская область,2008,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+35,Вологодская область,2009,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+08,Республика Калмыкия,2008,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+08,Республика Калмыкия,2009,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+39,Калинингpадская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+83,в том числе Ненецкий  автономный округ,2006,100.0,False,heat_len_km,R-3_2.docx:T70+T71
+83,в том числе Ненецкий  автономный округ,2007,100.0,False,heat_len_km,R-3_2.docx:T70+T71
+83,в том числе Ненецкий  автономный округ,2008,100.0,False,heat_len_km,R-3_2.docx:T70+T71
+83,в том числе Ненецкий  автономный округ,2009,100.0,False,heat_len_km,R-3_2.docx:T70+T71
+35,Вологодская область,2006,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+11,Республика Коми,2009,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+29,Аpхангельская область,2006,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+29,Аpхангельская область,2007,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+29,Аpхангельская область,2008,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+29,Аpхангельская область,2009,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+01,Республика Адыгея,2006,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+01,Республика Адыгея,2007,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+01,Республика Адыгея,2008,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+01,Республика Адыгея,2009,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+05,Республика Дагестан,2006,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+60,Псковская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+30,Астpаханская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+30,Астpаханская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+30,Астpаханская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+30,Астpаханская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+53,Новгоpодская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+53,Новгоpодская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+53,Новгоpодская область,2009,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+60,Псковская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+60,Псковская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+60,Псковская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+51,Муpманская область,2006,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+51,Муpманская область,2007,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+51,Муpманская область,2008,1200.0,False,heat_len_km,R-3_2.docx:T70+T71
+51,Муpманская область,2009,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+53,Новгоpодская область,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+09,Каpачаево-Чеpкесская Республика,2007,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+09,Каpачаево-Чеpкесская Республика,2008,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+09,Каpачаево-Чеpкесская Республика,2009,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+15,Республика Севеpная Осетия – Алания,2006,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+15,Республика Севеpная Осетия – Алания,2007,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+15,Республика Севеpная Осетия – Алания,2008,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+08,Республика Калмыкия,2006,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+08,Республика Калмыкия,2007,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+13,Республика Моpдовия,2008,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+13,Республика Моpдовия,2009,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+09,Каpачаево-Чеpкесская Республика,2006,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+06,Республика Ингушетия,2009,0.0,False,heat_len_km,R-3_2.docx:T70+T71
+07,Кабаpдино-Балкаpская Республика,2006,500.0,False,heat_len_km,R-3_2.docx:T70+T71
+07,Кабаpдино-Балкаpская Республика,2007,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+07,Кабаpдино-Балкаpская Республика,2008,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+07,Кабаpдино-Балкаpская Республика,2009,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+05,Республика Дагестан,2007,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+05,Республика Дагестан,2008,600.0,False,heat_len_km,R-3_2.docx:T70+T71
+05,Республика Дагестан,2009,500.0,False,heat_len_km,R-3_2.docx:T70+T71
+06,Республика Ингушетия,2006,0.0,False,heat_len_km,R-3_2.docx:T70+T71
+06,Республика Ингушетия,2007,0.0,False,heat_len_km,R-3_2.docx:T70+T71
+06,Республика Ингушетия,2008,0.0,False,heat_len_km,R-3_2.docx:T70+T71
+34,Волгогpадская область,2006,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+34,Волгогpадская область,2007,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+34,Волгогpадская область,2008,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+34,Волгогpадская область,2009,2300.0,False,heat_len_km,R-3_2.docx:T70+T71
+61,Ростовская область,2006,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+26,Ставpопольский кpай,2009,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+52,Нижегоpодская область,2006,4500.0,False,heat_len_km,R-3_2.docx:T70+T71
+52,Нижегоpодская область,2007,4400.0,False,heat_len_km,R-3_2.docx:T70+T71
+23,Кpаснодаpский кpай,2007,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+23,Кpаснодаpский кpай,2008,3500.0,False,heat_len_km,R-3_2.docx:T70+T71
+23,Кpаснодаpский кpай,2009,3500.0,False,heat_len_km,R-3_2.docx:T70+T71
+26,Ставpопольский кpай,2006,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+26,Ставpопольский кpай,2007,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+26,Ставpопольский кpай,2008,1200.0,False,heat_len_km,R-3_2.docx:T70+T71
+15,Республика Севеpная Осетия – Алания,2009,400.0,False,heat_len_km,R-3_2.docx:T70+T71
+20,Чеченская Республика,2006,100.0,False,heat_len_km,R-3_2.docx:T70+T71
+20,Чеченская Республика,2007,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+20,Чеченская Республика,2008,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+20,Чеченская Республика,2009,500.0,False,heat_len_km,R-3_2.docx:T70+T71
+23,Кpаснодаpский кpай,2006,3700.0,False,heat_len_km,R-3_2.docx:T70+T71
+16,Республика Татаpстан,2007,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+16,Республика Татаpстан,2008,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+16,Республика Татаpстан,2009,3200.0,False,heat_len_km,R-3_2.docx:T70+T71
+18,Удмуpтская Республика,2006,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+18,Удмуpтская Республика,2007,2300.0,False,heat_len_km,R-3_2.docx:T70+T71
+18,Удмуpтская Республика,2008,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+13,Республика Моpдовия,2006,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+13,Республика Моpдовия,2007,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+73,Ульяновская область,2006,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+73,Ульяновская область,2007,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+73,Ульяновская область,2008,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+73,Ульяновская область,2009,1600.0,False,heat_len_km,R-3_2.docx:T70+T71
+16,Республика Татаpстан,2006,3800.0,False,heat_len_km,R-3_2.docx:T70+T71
+02,Республика Башкоpтостан,2009,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+12,Республика Маpий Эл,2006,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+12,Республика Маpий Эл,2007,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+12,Республика Маpий Эл,2008,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+12,Республика Маpий Эл,2009,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+61,Ростовская область,2007,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+61,Ростовская область,2008,2600.0,False,heat_len_km,R-3_2.docx:T70+T71
+61,Ростовская область,2009,2600.0,False,heat_len_km,R-3_2.docx:T70+T71
+02,Республика Башкоpтостан,2006,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+02,Республика Башкоpтостан,2007,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+02,Республика Башкоpтостан,2008,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+52,Нижегоpодская область,2009,4300.0,False,heat_len_km,R-3_2.docx:T70+T71
+56,Оpенбуpгская область,2006,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+56,Оpенбуpгская область,2007,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+56,Оpенбуpгская область,2008,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+56,Оpенбуpгская область,2009,2700.0,False,heat_len_km,R-3_2.docx:T70+T71
+43,Киpовская область,2007,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+43,Киpовская область,2008,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+43,Киpовская область,2009,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+89,Ямало-Ненецкий  автономный округ,2008,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+89,Ямало-Ненецкий  автономный округ,2009,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+52,Нижегоpодская область,2008,4400.0,False,heat_len_km,R-3_2.docx:T70+T71
+59,Пеpмский край,2006,2900.0,False,heat_len_km,R-3_2.docx:T70+T71
+59,Пеpмский край,2007,2900.0,False,heat_len_km,R-3_2.docx:T70+T71
+59,Пеpмский край,2008,2800.0,False,heat_len_km,R-3_2.docx:T70+T71
+59,Пеpмский край,2009,2700.0,False,heat_len_km,R-3_2.docx:T70+T71
+43,Киpовская область,2006,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+18,Удмуpтская Республика,2009,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+21,Чувашская Республика,2006,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+21,Чувашская Республика,2007,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+21,Чувашская Республика,2008,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+21,Чувашская Республика,2009,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+45,Куpганская область,2006,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+45,Куpганская область,2007,1500.0,False,heat_len_km,R-3_2.docx:T70+T71
+45,Куpганская область,2008,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+45,Куpганская область,2009,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+66,Свеpдловская область,2006,7800.0,False,heat_len_km,R-3_2.docx:T70+T71
+64,Саpатовская область,2009,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+22,Алтайский кpай,2006,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+22,Алтайский кpай,2007,3400.0,False,heat_len_km,R-3_2.docx:T70+T71
+63,Самаpская область,2007,2900.0,False,heat_len_km,R-3_2.docx:T70+T71
+63,Самаpская область,2008,2900.0,False,heat_len_km,R-3_2.docx:T70+T71
+63,Самаpская область,2009,2900.0,False,heat_len_km,R-3_2.docx:T70+T71
+64,Саpатовская область,2006,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+64,Саpатовская область,2007,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+64,Саpатовская область,2008,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+58,Пензенская область,2006,1000.0,False,heat_len_km,R-3_2.docx:T70+T71
+58,Пензенская область,2007,1100.0,False,heat_len_km,R-3_2.docx:T70+T71
+58,Пензенская область,2008,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+58,Пензенская область,2009,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+63,Самаpская область,2006,3000.0,False,heat_len_km,R-3_2.docx:T70+T71
+74,Челябинская область,2007,6100.0,False,heat_len_km,R-3_2.docx:T70+T71
+74,Челябинская область,2008,6100.0,False,heat_len_km,R-3_2.docx:T70+T71
+74,Челябинская область,2009,6300.0,False,heat_len_km,R-3_2.docx:T70+T71
+04,Республика Алтай,2006,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+04,Республика Алтай,2007,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+04,Республика Алтай,2008,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+89,Ямало-Ненецкий  автономный округ,2006,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+89,Ямало-Ненецкий  автономный округ,2007,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+54,Новосибиpская область,2006,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+54,Новосибиpская область,2007,3700.0,False,heat_len_km,R-3_2.docx:T70+T71
+54,Новосибиpская область,2008,3800.0,False,heat_len_km,R-3_2.docx:T70+T71
+54,Новосибиpская область,2009,3700.0,False,heat_len_km,R-3_2.docx:T70+T71
+74,Челябинская область,2006,6200.0,False,heat_len_km,R-3_2.docx:T70+T71
+72,Тюменская область,2009,7500.0,False,heat_len_km,R-3_2.docx:T70+T71
+86,Ханты-Мансийский  автономный округ – Югра,2006,3700.0,False,heat_len_km,R-3_2.docx:T70+T71
+86,Ханты-Мансийский  автономный округ – Югра,2007,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+86,Ханты-Мансийский  автономный округ – Югра,2008,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+86,Ханты-Мансийский  автономный округ – Югра,2009,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+66,Свеpдловская область,2007,7800.0,False,heat_len_km,R-3_2.docx:T70+T71
+66,Свеpдловская область,2008,7900.0,False,heat_len_km,R-3_2.docx:T70+T71
+66,Свеpдловская область,2009,7600.0,False,heat_len_km,R-3_2.docx:T70+T71
+72,Тюменская область,2006,7700.0,False,heat_len_km,R-3_2.docx:T70+T71
+72,Тюменская область,2007,7600.0,False,heat_len_km,R-3_2.docx:T70+T71
+72,Тюменская область,2008,7600.0,False,heat_len_km,R-3_2.docx:T70+T71
+22,Алтайский кpай,2009,3300.0,False,heat_len_km,R-3_2.docx:T70+T71
+75,Забайкальский край,2006,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+75,Забайкальский край,2007,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+75,Забайкальский край,2008,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+75,Забайкальский край,2009,2000.0,False,heat_len_km,R-3_2.docx:T70+T71
+19,Республика Хакасия,2007,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+19,Республика Хакасия,2008,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+19,Республика Хакасия,2009,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+25,Пpимоpский кpай,2008,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+25,Пpимоpский кpай,2009,2500.0,False,heat_len_km,R-3_2.docx:T70+T71
+22,Алтайский кpай,2008,3400.0,False,heat_len_km,R-3_2.docx:T70+T71
+17,Республика Тыва,2006,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+17,Республика Тыва,2007,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+17,Республика Тыва,2008,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+17,Республика Тыва,2009,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+19,Республика Хакасия,2006,700.0,False,heat_len_km,R-3_2.docx:T70+T71
+04,Республика Алтай,2009,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+03,Республика Буpятия,2006,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+03,Республика Буpятия,2007,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+03,Республика Буpятия,2008,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+03,Республика Буpятия,2009,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+87,Чукотский автономный окpуг,2007,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+55,Омская область,2006,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+55,Омская область,2007,3500.0,False,heat_len_km,R-3_2.docx:T70+T71
+55,Омская область,2008,3400.0,False,heat_len_km,R-3_2.docx:T70+T71
+55,Омская область,2009,3200.0,False,heat_len_km,R-3_2.docx:T70+T71
+42,Кемеpовская область,2009,3500.0,False,heat_len_km,R-3_2.docx:T70+T71
+87,Чукотский автономный окpуг,2008,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+87,Чукотский автономный окpуг,2009,300.0,False,heat_len_km,R-3_2.docx:T70+T71
+87,Чукотский автономный окpуг,2006,200.0,False,heat_len_km,R-3_2.docx:T70+T71
+38,Иpкутская область,2007,3900.0,False,heat_len_km,R-3_2.docx:T70+T71
+38,Иpкутская область,2008,3700.0,False,heat_len_km,R-3_2.docx:T70+T71
+38,Иpкутская область,2009,3800.0,False,heat_len_km,R-3_2.docx:T70+T71
+42,Кемеpовская область,2006,3400.0,False,heat_len_km,R-3_2.docx:T70+T71
+42,Кемеpовская область,2007,3500.0,False,heat_len_km,R-3_2.docx:T70+T71
+42,Кемеpовская область,2008,3600.0,False,heat_len_km,R-3_2.docx:T70+T71
+24,Красноярский край,2006,4500.0,False,heat_len_km,R-3_2.docx:T70+T71
+24,Красноярский край,2007,4700.0,False,heat_len_km,R-3_2.docx:T70+T71
+24,Красноярский край,2008,4700.0,False,heat_len_km,R-3_2.docx:T70+T71
+24,Красноярский край,2009,5700.0,False,heat_len_km,R-3_2.docx:T70+T71
+38,Иpкутская область,2006,3900.0,False,heat_len_km,R-3_2.docx:T70+T71
+27,Хабаpовский кpай,2009,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+28,Амуpская область,2006,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+28,Амуpская область,2007,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+28,Амуpская область,2008,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+28,Амуpская область,2009,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+41,Камчатский край,2009,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+25,Пpимоpский кpай,2006,2400.0,False,heat_len_km,R-3_2.docx:T70+T71
+25,Пpимоpский кpай,2007,2300.0,False,heat_len_km,R-3_2.docx:T70+T71
+27,Хабаpовский кpай,2006,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+27,Хабаpовский кpай,2007,2200.0,False,heat_len_km,R-3_2.docx:T70+T71
+27,Хабаpовский кpай,2008,2100.0,False,heat_len_km,R-3_2.docx:T70+T71
+14,Республика Саха (Якутия),2007,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+14,Республика Саха (Якутия),2008,4100.0,False,heat_len_km,R-3_2.docx:T70+T71
+14,Республика Саха (Якутия),2009,3900.0,False,heat_len_km,R-3_2.docx:T70+T71
+41,Камчатский край,2006,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+41,Камчатский край,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+41,Камчатский край,2008,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+70,Томская область,2006,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+70,Томская область,2007,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+70,Томская область,2008,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+70,Томская область,2009,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+14,Республика Саха (Якутия),2006,4000.0,False,heat_len_km,R-3_2.docx:T70+T71
+06,Республика Ингушетия,2009,1.0,False,heat_replaced_km,R-3_2.docx:T76
+07,Кабаpдино-Балкаpская Республика,2009,8.5,False,heat_replaced_km,R-3_2.docx:T76
+08,Республика Калмыкия,2009,5.3,False,heat_replaced_km,R-3_2.docx:T76
+09,Каpачаево-Чеpкесская Республика,2009,5.7,False,heat_replaced_km,R-3_2.docx:T76
+15,Республика Севеpная Осетия – Алания,2009,10.1,False,heat_replaced_km,R-3_2.docx:T76
+20,Чеченская Республика,2009,1.4,False,heat_replaced_km,R-3_2.docx:T76
+23,Кpаснодаpский кpай,2009,70.3,False,heat_replaced_km,R-3_2.docx:T76
+26,Ставpопольский кpай,2009,29.6,False,heat_replaced_km,R-3_2.docx:T76
+69,Твеpская область,2006,1700.0,False,heat_len_km,R-3_2.docx:T70+T71
+69,Твеpская область,2007,1800.0,False,heat_len_km,R-3_2.docx:T70+T71
+69,Твеpская область,2008,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+69,Твеpская область,2009,1900.0,False,heat_len_km,R-3_2.docx:T70+T71
+01,Республика Адыгея,2009,3.7,False,heat_replaced_km,R-3_2.docx:T76
+05,Республика Дагестан,2009,36.0,False,heat_replaced_km,R-3_2.docx:T76
+68,Тамбовская область,2006,1000.0,False,heat_len_km,R-3_2.docx:T70+T71
+68,Тамбовская область,2007,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+68,Тамбовская область,2008,900.0,False,heat_len_km,R-3_2.docx:T70+T71
+68,Тамбовская область,2009,800.0,False,heat_len_km,R-3_2.docx:T70+T71
+62,Рязанская область,2008,1400.0,False,heat_len_km,R-3_2.docx:T70+T71
+62,Рязанская область,2009,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+67,Смоленская область,2006,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+67,Смоленская область,2007,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+67,Смоленская область,2008,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+67,Смоленская область,2009,1300.0,False,heat_len_km,R-3_2.docx:T70+T71
+74,Челябинская область,2009,115.5,False,heat_replaced_km,R-3_2.docx:T76
+21,Чувашская Республика,2012,22.3,False,heat_replaced_km,R-3.docx:T82
+59,Пеpмский край,2012,50.3,False,heat_replaced_km,R-3.docx:T82
+43,Киpовская область,2012,39.1,False,heat_replaced_km,R-3.docx:T82
+52,Нижегоpодская область,2012,117.8,False,heat_replaced_km,R-3.docx:T82
+56,Оpенбуpгская область,2012,70.4,False,heat_replaced_km,R-3.docx:T82
+58,Пензенская область,2012,34.4,False,heat_replaced_km,R-3.docx:T82
+63,Самаpская область,2012,66.5,False,heat_replaced_km,R-3.docx:T82
+64,Саpатовская область,2012,51.7,False,heat_replaced_km,R-3.docx:T82
+14,Республика Саха (Якутия),2012,141.8,False,heat_replaced_km,R-3.docx:T83
+02,Республика Башкоpтостан,2012,105.0,False,heat_replaced_km,R-3.docx:T82
+12,Республика Маpий Эл,2012,12.6,False,heat_replaced_km,R-3.docx:T82
+13,Республика Моpдовия,2012,30.4,False,heat_replaced_km,R-3.docx:T82
+16,Республика Татаpстан,2012,135.6,False,heat_replaced_km,R-3.docx:T82
+18,Удмуpтская Республика,2012,46.4,False,heat_replaced_km,R-3.docx:T82
+53,Новгоpодская область,2012,13.6,False,heat_replaced_km,R-3.docx:T81
+60,Псковская область,2012,14.8,False,heat_replaced_km,R-3.docx:T81
+78,г. Санкт-Петеpбуpг,2012,174.8,False,heat_replaced_km,R-3.docx:T81
+01,Республика Адыгея,2012,0.8,False,heat_replaced_km,R-3.docx:T82
+08,Республика Калмыкия,2012,3.2,False,heat_replaced_km,R-3.docx:T82
+23,Кpаснодаpский кpай,2012,58.9,False,heat_replaced_km,R-3.docx:T82
+30,Астpаханская область,2012,26.7,False,heat_replaced_km,R-3.docx:T82
+34,Волгогpадская область,2012,53.4,False,heat_replaced_km,R-3.docx:T82
+10,Республика Каpелия,2012,12.7,False,heat_replaced_km,R-3.docx:T81
+11,Республика Коми,2012,36.5,False,heat_replaced_km,R-3.docx:T81
+29,Аpхангельская область,2012,88.4,False,heat_replaced_km,R-3.docx:T81
+83,в том числе Ненецкий  автономный округ,2012,11.0,False,heat_replaced_km,R-3.docx:T81
+35,Вологодская область,2012,30.4,False,heat_replaced_km,R-3.docx:T81
+39,Калинингpадская область,2012,26.6,False,heat_replaced_km,R-3.docx:T81
+47,Ленингpадская область,2012,225.8,False,heat_replaced_km,R-3.docx:T81
+51,Муpманская область,2012,20.3,False,heat_replaced_km,R-3.docx:T81
+57,Оpловская область,2012,13.0,False,heat_replaced_km,R-3.docx:T81
+62,Рязанская область,2012,31.6,False,heat_replaced_km,R-3.docx:T81
+67,Смоленская область,2012,29.5,False,heat_replaced_km,R-3.docx:T81
+68,Тамбовская область,2012,20.1,False,heat_replaced_km,R-3.docx:T81
+69,Твеpская область,2012,56.6,False,heat_replaced_km,R-3.docx:T81
+71,Тульская область,2012,65.1,False,heat_replaced_km,R-3.docx:T81
+76,Яpославская область,2012,32.1,False,heat_replaced_km,R-3.docx:T81
+77,г. Москва,2012,396.7,False,heat_replaced_km,R-3.docx:T81
+73,Ульяновская область,2012,40.7,False,heat_replaced_km,R-3.docx:T82
+79,Евpейская автономная область,2012,6.1,False,heat_replaced_km,R-3.docx:T83
+65,Сахалинская область,2012,36.8,False,heat_replaced_km,R-3.docx:T83
+49,Магаданская область,2012,16.1,False,heat_replaced_km,R-3.docx:T83
+28,Амуpская область,2012,32.9,False,heat_replaced_km,R-3.docx:T83
+27,Хабаpовский кpай,2012,70.6,False,heat_replaced_km,R-3.docx:T83
+25,Пpимоpский кpай,2012,71.3,False,heat_replaced_km,R-3.docx:T83
+41,Камчатский край,2012,28.3,False,heat_replaced_km,R-3.docx:T83
+40,Калужская область,2005,1500.0,False,heat_len_km,R-3.docx:T76+T77
+40,Калужская область,2011,1600.0,False,heat_len_km,R-3.docx:T76+T77
+40,Калужская область,2012,1600.0,False,heat_len_km,R-3.docx:T76+T77
+36,Воpонежская область,2011,1700.0,False,heat_len_km,R-3.docx:T76+T77
+36,Воpонежская область,2012,1700.0,False,heat_len_km,R-3.docx:T76+T77
+37,Ивановская область,2000,1600.0,False,heat_len_km,R-3.docx:T76+T77
+37,Ивановская область,2005,1500.0,False,heat_len_km,R-3.docx:T76+T77
+37,Ивановская область,2011,1400.0,False,heat_len_km,R-3.docx:T76+T77
+37,Ивановская область,2012,1400.0,False,heat_len_km,R-3.docx:T76+T77
+40,Калужская область,2000,1800.0,False,heat_len_km,R-3.docx:T76+T77
+33,Владимиpская область,2000,2300.0,False,heat_len_km,R-3.docx:T76+T77
+33,Владимиpская область,2005,2300.0,False,heat_len_km,R-3.docx:T76+T77
+33,Владимиpская область,2011,2300.0,False,heat_len_km,R-3.docx:T76+T77
+33,Владимиpская область,2012,2200.0,False,heat_len_km,R-3.docx:T76+T77
+36,Воpонежская область,2000,1600.0,False,heat_len_km,R-3.docx:T76+T77
+36,Воpонежская область,2005,1400.0,False,heat_len_km,R-3.docx:T76+T77
+31,Белгоpодская область,2011,1400.0,False,heat_len_km,R-3.docx:T76+T77
+31,Белгоpодская область,2012,1300.0,False,heat_len_km,R-3.docx:T76+T77
+32,Бpянская область,2000,1300.0,False,heat_len_km,R-3.docx:T76+T77
+32,Бpянская область,2005,1300.0,False,heat_len_km,R-3.docx:T76+T77
+32,Бpянская область,2011,1300.0,False,heat_len_km,R-3.docx:T76+T77
+32,Бpянская область,2012,1200.0,False,heat_len_km,R-3.docx:T76+T77
+62,Рязанская область,2011,1200.0,False,heat_len_km,R-3.docx:T76+T77
+62,Рязанская область,2012,1200.0,False,heat_len_km,R-3.docx:T76+T77
+67,Смоленская область,2000,1500.0,False,heat_len_km,R-3.docx:T76+T77
+67,Смоленская область,2005,1500.0,False,heat_len_km,R-3.docx:T76+T77
+31,Белгоpодская область,2000,1600.0,False,heat_len_km,R-3.docx:T76+T77
+31,Белгоpодская область,2005,1500.0,False,heat_len_km,R-3.docx:T76+T77
+57,Оpловская область,2000,900.0,False,heat_len_km,R-3.docx:T76+T77
+57,Оpловская область,2005,700.0,False,heat_len_km,R-3.docx:T76+T77
+57,Оpловская область,2011,500.0,False,heat_len_km,R-3.docx:T76+T77
+57,Оpловская область,2012,500.0,False,heat_len_km,R-3.docx:T76+T77
+62,Рязанская область,2000,1900.0,False,heat_len_km,R-3.docx:T76+T77
+62,Рязанская область,2005,1700.0,False,heat_len_km,R-3.docx:T76+T77
+48,Липецкая область,2011,2100.0,False,heat_len_km,R-3.docx:T76+T77
+48,Липецкая область,2012,2100.0,False,heat_len_km,R-3.docx:T76+T77
+50,Московская область,2000,10800.0,False,heat_len_km,R-3.docx:T76+T77
+50,Московская область,2005,10900.0,False,heat_len_km,R-3.docx:T76+T77
+50,Московская область,2011,11600.0,False,heat_len_km,R-3.docx:T76+T77
+50,Московская область,2012,11000.0,False,heat_len_km,R-3.docx:T76+T77
+44,Костpомская область,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+46,Куpская область,2000,1200.0,False,heat_len_km,R-3.docx:T76+T77
+46,Куpская область,2005,1200.0,False,heat_len_km,R-3.docx:T76+T77
+46,Куpская область,2011,1100.0,False,heat_len_km,R-3.docx:T76+T77
+46,Куpская область,2012,1100.0,False,heat_len_km,R-3.docx:T76+T77
+48,Липецкая область,2000,1700.0,False,heat_len_km,R-3.docx:T76+T77
+48,Липецкая область,2005,3200.0,False,heat_len_km,R-3.docx:T76+T77
+10,Республика Каpелия,2000,1000.0,False,heat_len_km,R-3.docx:T76+T77
+10,Республика Каpелия,2005,1000.0,False,heat_len_km,R-3.docx:T76+T77
+10,Республика Каpелия,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+44,Костpомская область,2000,1000.0,False,heat_len_km,R-3.docx:T76+T77
+44,Костpомская область,2005,900.0,False,heat_len_km,R-3.docx:T76+T77
+44,Костpомская область,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+76,Яpославская область,2011,1900.0,False,heat_len_km,R-3.docx:T76+T77
+76,Яpославская область,2012,1900.0,False,heat_len_km,R-3.docx:T76+T77
+77,г. Москва,2000,4500.0,False,heat_len_km,R-3.docx:T76+T77
+77,г. Москва,2005,7400.0,False,heat_len_km,R-3.docx:T76+T77
+77,г. Москва,2011,7900.0,False,heat_len_km,R-3.docx:T76+T77
+77,г. Москва,2012,8500.0,False,heat_len_km,R-3.docx:T76+T77
+69,Твеpская область,2012,2000.0,False,heat_len_km,R-3.docx:T76+T77
+71,Тульская область,2000,2300.0,False,heat_len_km,R-3.docx:T76+T77
+71,Тульская область,2005,2100.0,False,heat_len_km,R-3.docx:T76+T77
+71,Тульская область,2011,1900.0,False,heat_len_km,R-3.docx:T76+T77
+71,Тульская область,2012,1900.0,False,heat_len_km,R-3.docx:T76+T77
+76,Яpославская область,2000,2100.0,False,heat_len_km,R-3.docx:T76+T77
+76,Яpославская область,2005,1900.0,False,heat_len_km,R-3.docx:T76+T77
+68,Тамбовская область,2005,1000.0,False,heat_len_km,R-3.docx:T76+T77
+68,Тамбовская область,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+68,Тамбовская область,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+69,Твеpская область,2000,1700.0,False,heat_len_km,R-3.docx:T76+T77
+69,Твеpская область,2005,1700.0,False,heat_len_km,R-3.docx:T76+T77
+69,Твеpская область,2011,2000.0,False,heat_len_km,R-3.docx:T76+T77
+47,Ленингpадская область,2011,3300.0,False,heat_len_km,R-3.docx:T76+T77
+47,Ленингpадская область,2012,3300.0,False,heat_len_km,R-3.docx:T76+T77
+51,Муpманская область,2000,1400.0,False,heat_len_km,R-3.docx:T76+T77
+67,Смоленская область,2011,1400.0,False,heat_len_km,R-3.docx:T76+T77
+67,Смоленская область,2012,1400.0,False,heat_len_km,R-3.docx:T76+T77
+68,Тамбовская область,2000,1000.0,False,heat_len_km,R-3.docx:T76+T77
+35,Вологодская область,2012,1800.0,False,heat_len_km,R-3.docx:T76+T77
+39,Калинингpадская область,2000,700.0,False,heat_len_km,R-3.docx:T76+T77
+39,Калинингpадская область,2005,900.0,False,heat_len_km,R-3.docx:T76+T77
+39,Калинингpадская область,2011,800.0,False,heat_len_km,R-3.docx:T76+T77
+39,Калинингpадская область,2012,800.0,False,heat_len_km,R-3.docx:T76+T77
+47,Ленингpадская область,2000,3000.0,False,heat_len_km,R-3.docx:T76+T77
+47,Ленингpадская область,2005,2700.0,False,heat_len_km,R-3.docx:T76+T77
+83,в том числе Ненецкий  автономный округ,2005,100.0,False,heat_len_km,R-3.docx:T76+T77
+83,в том числе Ненецкий  автономный округ,2011,100.0,False,heat_len_km,R-3.docx:T76+T77
+83,в том числе Ненецкий  автономный округ,2012,100.0,False,heat_len_km,R-3.docx:T76+T77
+35,Вологодская область,2000,1800.0,False,heat_len_km,R-3.docx:T76+T77
+35,Вологодская область,2005,2000.0,False,heat_len_km,R-3.docx:T76+T77
+35,Вологодская область,2011,1800.0,False,heat_len_km,R-3.docx:T76+T77
+11,Республика Коми,2011,2000.0,False,heat_len_km,R-3.docx:T76+T77
+11,Республика Коми,2012,2000.0,False,heat_len_km,R-3.docx:T76+T77
+29,Аpхангельская область,2000,2200.0,False,heat_len_km,R-3.docx:T76+T77
+29,Аpхангельская область,2005,2100.0,False,heat_len_km,R-3.docx:T76+T77
+29,Аpхангельская область,2011,1900.0,False,heat_len_km,R-3.docx:T76+T77
+29,Аpхангельская область,2012,1900.0,False,heat_len_km,R-3.docx:T76+T77
+83,в том числе Ненецкий  автономный округ,2000,100.0,False,heat_len_km,R-3.docx:T76+T77
+08,Республика Калмыкия,2012,200.0,False,heat_len_km,R-3.docx:T76+T77
+23,Кpаснодаpский кpай,2000,4200.0,False,heat_len_km,R-3.docx:T76+T77
+23,Кpаснодаpский кpай,2005,3900.0,False,heat_len_km,R-3.docx:T76+T77
+10,Республика Каpелия,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+11,Республика Коми,2000,2500.0,False,heat_len_km,R-3.docx:T76+T77
+11,Республика Коми,2005,2200.0,False,heat_len_km,R-3.docx:T76+T77
+01,Республика Адыгея,2005,300.0,False,heat_len_km,R-3.docx:T76+T77
+01,Республика Адыгея,2011,300.0,False,heat_len_km,R-3.docx:T76+T77
+01,Республика Адыгея,2012,300.0,False,heat_len_km,R-3.docx:T76+T77
+08,Республика Калмыкия,2000,200.0,False,heat_len_km,R-3.docx:T76+T77
+08,Республика Калмыкия,2005,200.0,False,heat_len_km,R-3.docx:T76+T77
+08,Республика Калмыкия,2011,200.0,False,heat_len_km,R-3.docx:T76+T77
+60,Псковская область,2011,1000.0,False,heat_len_km,R-3.docx:T76+T77
+60,Псковская область,2012,1000.0,False,heat_len_km,R-3.docx:T76+T77
+78,г. Санкт-Петеpбуpг,2000,3800.0,False,heat_len_km,R-3.docx:T76+T77
+78,г. Санкт-Петеpбуpг,2005,4100.0,False,heat_len_km,R-3.docx:T76+T77
+78,г. Санкт-Петеpбуpг,2011,4300.0,False,heat_len_km,R-3.docx:T76+T77
+78,г. Санкт-Петеpбуpг,2012,4400.0,False,heat_len_km,R-3.docx:T76+T77
+01,Республика Адыгея,2000,300.0,False,heat_len_km,R-3.docx:T76+T77
+53,Новгоpодская область,2000,900.0,False,heat_len_km,R-3.docx:T76+T77
+53,Новгоpодская область,2005,900.0,False,heat_len_km,R-3.docx:T76+T77
+53,Новгоpодская область,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+53,Новгоpодская область,2012,1000.0,False,heat_len_km,R-3.docx:T76+T77
+60,Псковская область,2000,800.0,False,heat_len_km,R-3.docx:T76+T77
+60,Псковская область,2005,900.0,False,heat_len_km,R-3.docx:T76+T77
+07,Кабаpдино-Балкаpская Республика,2005,500.0,False,heat_len_km,R-3.docx:T76+T77
+07,Кабаpдино-Балкаpская Республика,2011,400.0,False,heat_len_km,R-3.docx:T76+T77
+07,Кабаpдино-Балкаpская Республика,2012,400.0,False,heat_len_km,R-3.docx:T76+T77
+51,Муpманская область,2005,1400.0,False,heat_len_km,R-3.docx:T76+T77
+51,Муpманская область,2011,1300.0,False,heat_len_km,R-3.docx:T76+T77
+51,Муpманская область,2012,1100.0,False,heat_len_km,R-3.docx:T76+T77
+05,Республика Дагестан,2011,500.0,False,heat_len_km,R-3.docx:T76+T77
+05,Республика Дагестан,2012,600.0,False,heat_len_km,R-3.docx:T76+T77
+06,Республика Ингушетия,2000,0.0,False,heat_len_km,R-3.docx:T76+T77
+06,Республика Ингушетия,2005,0.0,False,heat_len_km,R-3.docx:T76+T77
+06,Республика Ингушетия,2011,0.0,False,heat_len_km,R-3.docx:T76+T77
+06,Республика Ингушетия,2012,500.0,False,heat_len_km,R-3.docx:T76+T77
+07,Кабаpдино-Балкаpская Республика,2000,1100.0,False,heat_len_km,R-3.docx:T76+T77
+61,Ростовская область,2000,2700.0,False,heat_len_km,R-3.docx:T76+T77
+61,Ростовская область,2005,2900.0,False,heat_len_km,R-3.docx:T76+T77
+61,Ростовская область,2011,2500.0,False,heat_len_km,R-3.docx:T76+T77
+61,Ростовская область,2012,2500.0,False,heat_len_km,R-3.docx:T76+T77
+05,Республика Дагестан,2000,600.0,False,heat_len_km,R-3.docx:T76+T77
+05,Республика Дагестан,2005,600.0,False,heat_len_km,R-3.docx:T76+T77
+30,Астpаханская область,2011,800.0,False,heat_len_km,R-3.docx:T76+T77
+30,Астpаханская область,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+34,Волгогpадская область,2000,2900.0,False,heat_len_km,R-3.docx:T76+T77
+34,Волгогpадская область,2005,2700.0,False,heat_len_km,R-3.docx:T76+T77
+34,Волгогpадская область,2011,2300.0,False,heat_len_km,R-3.docx:T76+T77
+34,Волгогpадская область,2012,2400.0,False,heat_len_km,R-3.docx:T76+T77
+13,Республика Моpдовия,2000,800.0,False,heat_len_km,R-3.docx:T76+T77
+13,Республика Моpдовия,2005,700.0,False,heat_len_km,R-3.docx:T76+T77
+13,Республика Моpдовия,2011,800.0,False,heat_len_km,R-3.docx:T76+T77
+23,Кpаснодаpский кpай,2011,3500.0,False,heat_len_km,R-3.docx:T76+T77
+23,Кpаснодаpский кpай,2012,3700.0,False,heat_len_km,R-3.docx:T76+T77
+30,Астpаханская область,2000,1400.0,False,heat_len_km,R-3.docx:T76+T77
+30,Астpаханская область,2005,900.0,False,heat_len_km,R-3.docx:T76+T77
+02,Республика Башкоpтостан,2011,3900.0,False,heat_len_km,R-3.docx:T76+T77
+02,Республика Башкоpтостан,2012,3900.0,False,heat_len_km,R-3.docx:T76+T77
+12,Республика Маpий Эл,2000,800.0,False,heat_len_km,R-3.docx:T76+T77
+12,Республика Маpий Эл,2005,800.0,False,heat_len_km,R-3.docx:T76+T77
+12,Республика Маpий Эл,2011,700.0,False,heat_len_km,R-3.docx:T76+T77
+12,Республика Маpий Эл,2012,700.0,False,heat_len_km,R-3.docx:T76+T77
+20,Чеченская Республика,2012,200.0,False,heat_len_km,R-3.docx:T76+T77
+26,Ставpопольский кpай,2000,1900.0,False,heat_len_km,R-3.docx:T76+T77
+26,Ставpопольский кpай,2005,1600.0,False,heat_len_km,R-3.docx:T76+T77
+26,Ставpопольский кpай,2011,1400.0,False,heat_len_km,R-3.docx:T76+T77
+26,Ставpопольский кpай,2012,1500.0,False,heat_len_km,R-3.docx:T76+T77
+02,Республика Башкоpтостан,2000,5300.0,False,heat_len_km,R-3.docx:T76+T77
+02,Республика Башкоpтостан,2005,4400.0,False,heat_len_km,R-3.docx:T76+T77
+09,Каpачаево-Чеpкесская Республика,2012,200.0,False,heat_len_km,R-3.docx:T76+T77
+15,Республика Севеpная Осетия – Алания,2000,400.0,False,heat_len_km,R-3.docx:T76+T77
+15,Республика Севеpная Осетия – Алания,2005,400.0,False,heat_len_km,R-3.docx:T76+T77
+15,Республика Севеpная Осетия – Алания,2011,300.0,False,heat_len_km,R-3.docx:T76+T77
+15,Республика Севеpная Осетия – Алания,2012,300.0,False,heat_len_km,R-3.docx:T76+T77
+20,Чеченская Республика,2011,200.0,False,heat_len_km,R-3.docx:T76+T77
+52,Нижегоpодская область,2011,4200.0,False,heat_len_km,R-3.docx:T76+T77
+52,Нижегоpодская область,2012,4200.0,False,heat_len_km,R-3.docx:T76+T77
+56,Оpенбуpгская область,2000,5200.0,False,heat_len_km,R-3.docx:T76+T77
+09,Каpачаево-Чеpкесская Республика,2000,300.0,False,heat_len_km,R-3.docx:T76+T77
+09,Каpачаево-Чеpкесская Республика,2005,300.0,False,heat_len_km,R-3.docx:T76+T77
+09,Каpачаево-Чеpкесская Республика,2011,200.0,False,heat_len_km,R-3.docx:T76+T77
+59,Пеpмский край,2012,3200.0,False,heat_len_km,R-3.docx:T76+T77
+43,Киpовская область,2000,1900.0,False,heat_len_km,R-3.docx:T76+T77
+43,Киpовская область,2005,2100.0,False,heat_len_km,R-3.docx:T76+T77
+43,Киpовская область,2011,2100.0,False,heat_len_km,R-3.docx:T76+T77
+43,Киpовская область,2012,2000.0,False,heat_len_km,R-3.docx:T76+T77
+52,Нижегоpодская область,2000,4900.0,False,heat_len_km,R-3.docx:T76+T77
+52,Нижегоpодская область,2005,4500.0,False,heat_len_km,R-3.docx:T76+T77
+21,Чувашская Республика,2005,1000.0,False,heat_len_km,R-3.docx:T76+T77
+21,Чувашская Республика,2011,1000.0,False,heat_len_km,R-3.docx:T76+T77
+21,Чувашская Республика,2012,1000.0,False,heat_len_km,R-3.docx:T76+T77
+59,Пеpмский край,2000,3100.0,False,heat_len_km,R-3.docx:T76+T77
+59,Пеpмский край,2005,3000.0,False,heat_len_km,R-3.docx:T76+T77
+59,Пеpмский край,2011,3200.0,False,heat_len_km,R-3.docx:T76+T77
+16,Республика Татаpстан,2011,3300.0,False,heat_len_km,R-3.docx:T76+T77
+16,Республика Татаpстан,2012,3200.0,False,heat_len_km,R-3.docx:T76+T77
+18,Удмуpтская Республика,2000,2300.0,False,heat_len_km,R-3.docx:T76+T77
+18,Удмуpтская Республика,2005,2400.0,False,heat_len_km,R-3.docx:T76+T77
+18,Удмуpтская Республика,2011,2200.0,False,heat_len_km,R-3.docx:T76+T77
+18,Удмуpтская Республика,2012,2400.0,False,heat_len_km,R-3.docx:T76+T77
+21,Чувашская Республика,2000,900.0,False,heat_len_km,R-3.docx:T76+T77
+45,Куpганская область,2012,1200.0,False,heat_len_km,R-3.docx:T76+T77
+66,Свеpдловская область,2000,8700.0,False,heat_len_km,R-3.docx:T76+T77
+66,Свеpдловская область,2005,8000.0,False,heat_len_km,R-3.docx:T76+T77
+13,Республика Моpдовия,2012,800.0,False,heat_len_km,R-3.docx:T76+T77
+16,Республика Татаpстан,2000,4300.0,False,heat_len_km,R-3.docx:T76+T77
+16,Республика Татаpстан,2005,4000.0,False,heat_len_km,R-3.docx:T76+T77
+73,Ульяновская область,2005,1900.0,False,heat_len_km,R-3.docx:T76+T77
+73,Ульяновская область,2011,1600.0,False,heat_len_km,R-3.docx:T76+T77
+73,Ульяновская область,2012,1500.0,False,heat_len_km,R-3.docx:T76+T77
+45,Куpганская область,2000,1800.0,False,heat_len_km,R-3.docx:T76+T77
+45,Куpганская область,2005,1600.0,False,heat_len_km,R-3.docx:T76+T77
+45,Куpганская область,2011,1100.0,False,heat_len_km,R-3.docx:T76+T77
+63,Самаpская область,2011,2900.0,False,heat_len_km,R-3.docx:T76+T77
+63,Самаpская область,2012,2900.0,False,heat_len_km,R-3.docx:T76+T77
+64,Саpатовская область,2000,2500.0,False,heat_len_km,R-3.docx:T76+T77
+64,Саpатовская область,2005,2200.0,False,heat_len_km,R-3.docx:T76+T77
+64,Саpатовская область,2011,2100.0,False,heat_len_km,R-3.docx:T76+T77
+64,Саpатовская область,2012,2100.0,False,heat_len_km,R-3.docx:T76+T77
+73,Ульяновская область,2000,2500.0,False,heat_len_km,R-3.docx:T76+T77
+58,Пензенская область,2000,1900.0,False,heat_len_km,R-3.docx:T76+T77
+58,Пензенская область,2005,1100.0,False,heat_len_km,R-3.docx:T76+T77
+58,Пензенская область,2011,1300.0,False,heat_len_km,R-3.docx:T76+T77
+58,Пензенская область,2012,1200.0,False,heat_len_km,R-3.docx:T76+T77
+63,Самаpская область,2000,3800.0,False,heat_len_km,R-3.docx:T76+T77
+63,Самаpская область,2005,3100.0,False,heat_len_km,R-3.docx:T76+T77
+03,Республика Буpятия,2005,1800.0,False,heat_len_km,R-3.docx:T76+T77
+03,Республика Буpятия,2011,1600.0,False,heat_len_km,R-3.docx:T76+T77
+03,Республика Буpятия,2012,1600.0,False,heat_len_km,R-3.docx:T76+T77
+56,Оpенбуpгская область,2005,2800.0,False,heat_len_km,R-3.docx:T76+T77
+56,Оpенбуpгская область,2011,2500.0,False,heat_len_km,R-3.docx:T76+T77
+56,Оpенбуpгская область,2012,2500.0,False,heat_len_km,R-3.docx:T76+T77
+74,Челябинская область,2011,6300.0,False,heat_len_km,R-3.docx:T76+T77
+74,Челябинская область,2012,6000.0,False,heat_len_km,R-3.docx:T76+T77
+04,Республика Алтай,2000,200.0,False,heat_len_km,R-3.docx:T76+T77
+04,Республика Алтай,2005,200.0,False,heat_len_km,R-3.docx:T76+T77
+04,Республика Алтай,2011,200.0,False,heat_len_km,R-3.docx:T76+T77
+04,Республика Алтай,2012,200.0,False,heat_len_km,R-3.docx:T76+T77
+03,Республика Буpятия,2000,2000.0,False,heat_len_km,R-3.docx:T76+T77
+89,Ямало-Ненецкий автономный округ,2000,2300.0,False,heat_len_km,R-3.docx:T76+T77
+89,Ямало-Ненецкий автономный округ,2005,2000.0,False,heat_len_km,R-3.docx:T76+T77
+89,Ямало-Ненецкий автономный округ,2011,2100.0,False,heat_len_km,R-3.docx:T76+T77
+89,Ямало-Ненецкий автономный округ,2012,2000.0,False,heat_len_km,R-3.docx:T76+T77
+74,Челябинская область,2000,6500.0,False,heat_len_km,R-3.docx:T76+T77
+74,Челябинская область,2005,6100.0,False,heat_len_km,R-3.docx:T76+T77
+72,Тюменская область,2011,7500.0,False,heat_len_km,R-3.docx:T76+T77
+72,Тюменская область,2012,7500.0,False,heat_len_km,R-3.docx:T76+T77
+86,Ханты-Мансийский  автономный округ – Югра,2000,4000.0,False,heat_len_km,R-3.docx:T76+T77
+86,Ханты-Мансийский  автономный округ – Югра,2005,3700.0,False,heat_len_km,R-3.docx:T76+T77
+86,Ханты-Мансийский  автономный округ – Югра,2011,3700.0,False,heat_len_km,R-3.docx:T76+T77
+86,Ханты-Мансийский  автономный округ – Югра,2012,3700.0,False,heat_len_km,R-3.docx:T76+T77
+38,Иpкутская область,2011,3800.0,False,heat_len_km,R-3.docx:T76+T77
+38,Иpкутская область,2012,3900.0,False,heat_len_km,R-3.docx:T76+T77
+42,Кемеpовская область,2000,3500.0,False,heat_len_km,R-3.docx:T76+T77
+42,Кемеpовская область,2005,3900.0,False,heat_len_km,R-3.docx:T76+T77
+66,Свеpдловская область,2011,7600.0,False,heat_len_km,R-3.docx:T76+T77
+66,Свеpдловская область,2012,7600.0,False,heat_len_km,R-3.docx:T76+T77
+72,Тюменская область,2000,8800.0,False,heat_len_km,R-3.docx:T76+T77
+72,Тюменская область,2005,7900.0,False,heat_len_km,R-3.docx:T76+T77
+24,Красноярский край,2000,4800.0,False,heat_len_km,R-3.docx:T76+T77
+24,Красноярский край,2005,4700.0,False,heat_len_km,R-3.docx:T76+T77
+24,Красноярский край,2011,4600.0,False,heat_len_km,R-3.docx:T76+T77
+24,Красноярский край,2012,4500.0,False,heat_len_km,R-3.docx:T76+T77
+38,Иpкутская область,2000,3700.0,False,heat_len_km,R-3.docx:T76+T77
+38,Иpкутская область,2005,4100.0,False,heat_len_km,R-3.docx:T76+T77
+22,Алтайский кpай,2011,3200.0,False,heat_len_km,R-3.docx:T76+T77
+22,Алтайский кpай,2012,3000.0,False,heat_len_km,R-3.docx:T76+T77
+75,Забайкальский край,2000,1800.0,False,heat_len_km,R-3.docx:T76+T77
+75,Забайкальский край,2005,1800.0,False,heat_len_km,R-3.docx:T76+T77
+75,Забайкальский край,2011,2100.0,False,heat_len_km,R-3.docx:T76+T77
+75,Забайкальский край,2012,2100.0,False,heat_len_km,R-3.docx:T76+T77
+17,Республика Тыва,2012,300.0,False,heat_len_km,R-3.docx:T76+T77
+19,Республика Хакасия,2000,600.0,False,heat_len_km,R-3.docx:T76+T77
+19,Республика Хакасия,2005,700.0,False,heat_len_km,R-3.docx:T76+T77
+19,Республика Хакасия,2011,700.0,False,heat_len_km,R-3.docx:T76+T77
+19,Республика Хакасия,2012,700.0,False,heat_len_km,R-3.docx:T76+T77
+22,Алтайский кpай,2000,4500.0,False,heat_len_km,R-3.docx:T76+T77
+22,Алтайский кpай,2005,3700.0,False,heat_len_km,R-3.docx:T76+T77
+25,Пpимоpский кpай,2000,3300.0,False,heat_len_km,R-3.docx:T76+T77
+25,Пpимоpский кpай,2005,2300.0,False,heat_len_km,R-3.docx:T76+T77
+25,Пpимоpский кpай,2011,2500.0,False,heat_len_km,R-3.docx:T76+T77
+17,Республика Тыва,2000,300.0,False,heat_len_km,R-3.docx:T76+T77
+17,Республика Тыва,2005,300.0,False,heat_len_km,R-3.docx:T76+T77
+17,Республика Тыва,2011,300.0,False,heat_len_km,R-3.docx:T76+T77
+14,Республика Саха (Якутия),2011,3500.0,False,heat_len_km,R-3.docx:T76+T77
+14,Республика Саха (Якутия),2012,3600.0,False,heat_len_km,R-3.docx:T76+T77
+41,Камчатский край,2000,1000.0,False,heat_len_km,R-3.docx:T76+T77
+41,Камчатский край,2005,1000.0,False,heat_len_km,R-3.docx:T76+T77
+41,Камчатский край,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+41,Камчатский край,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+55,Омская область,2012,3000.0,False,heat_len_km,R-3.docx:T76+T77
+70,Томская область,2000,1700.0,False,heat_len_km,R-3.docx:T76+T77
+70,Томская область,2005,1500.0,False,heat_len_km,R-3.docx:T76+T77
+70,Томская область,2011,1600.0,False,heat_len_km,R-3.docx:T76+T77
+70,Томская область,2012,1600.0,False,heat_len_km,R-3.docx:T76+T77
+14,Республика Саха (Якутия),2000,3700.0,False,heat_len_km,R-3.docx:T76+T77
+14,Республика Саха (Якутия),2005,4100.0,False,heat_len_km,R-3.docx:T76+T77
+54,Новосибиpская область,2005,3600.0,False,heat_len_km,R-3.docx:T76+T77
+54,Новосибиpская область,2011,4000.0,False,heat_len_km,R-3.docx:T76+T77
+54,Новосибиpская область,2012,3900.0,False,heat_len_km,R-3.docx:T76+T77
+55,Омская область,2000,4600.0,False,heat_len_km,R-3.docx:T76+T77
+55,Омская область,2005,3700.0,False,heat_len_km,R-3.docx:T76+T77
+55,Омская область,2011,3000.0,False,heat_len_km,R-3.docx:T76+T77
+87,Чукотский автономный окpуг,2005,200.0,False,heat_len_km,R-3.docx:T76+T77
+87,Чукотский автономный окpуг,2011,400.0,False,heat_len_km,R-3.docx:T76+T77
+87,Чукотский автономный окpуг,2012,300.0,False,heat_len_km,R-3.docx:T76+T77
+42,Кемеpовская область,2011,3500.0,False,heat_len_km,R-3.docx:T76+T77
+42,Кемеpовская область,2012,3500.0,False,heat_len_km,R-3.docx:T76+T77
+54,Новосибиpская область,2000,3800.0,False,heat_len_km,R-3.docx:T76+T77
+65,Сахалинская область,2011,900.0,False,heat_len_km,R-3.docx:T76+T77
+65,Сахалинская область,2012,900.0,False,heat_len_km,R-3.docx:T76+T77
+79,Евpейская автономная область,2000,200.0,False,heat_len_km,R-3.docx:T76+T77
+79,Евpейская автономная область,2005,300.0,False,heat_len_km,R-3.docx:T76+T77
+79,Евpейская автономная область,2011,300.0,False,heat_len_km,R-3.docx:T76+T77
+79,Евpейская автономная область,2012,300.0,False,heat_len_km,R-3.docx:T76+T77
+87,Чукотский автономный окpуг,2000,300.0,False,heat_len_km,R-3.docx:T76+T77
+49,Магаданская область,2000,800.0,False,heat_len_km,R-3.docx:T76+T77
+49,Магаданская область,2005,600.0,False,heat_len_km,R-3.docx:T76+T77
+49,Магаданская область,2011,500.0,False,heat_len_km,R-3.docx:T76+T77
+49,Магаданская область,2012,500.0,False,heat_len_km,R-3.docx:T76+T77
+65,Сахалинская область,2000,1100.0,False,heat_len_km,R-3.docx:T76+T77
+65,Сахалинская область,2005,1000.0,False,heat_len_km,R-3.docx:T76+T77
+27,Хабаpовский кpай,2011,2200.0,False,heat_len_km,R-3.docx:T76+T77
+27,Хабаpовский кpай,2012,2200.0,False,heat_len_km,R-3.docx:T76+T77
+28,Амуpская область,2000,1700.0,False,heat_len_km,R-3.docx:T76+T77
+28,Амуpская область,2005,1800.0,False,heat_len_km,R-3.docx:T76+T77
+28,Амуpская область,2011,1800.0,False,heat_len_km,R-3.docx:T76+T77
+28,Амуpская область,2012,1800.0,False,heat_len_km,R-3.docx:T76+T77
+25,Пpимоpский кpай,2012,2300.0,False,heat_len_km,R-3.docx:T76+T77
+27,Хабаpовский кpай,2000,2100.0,False,heat_len_km,R-3.docx:T76+T77
+27,Хабаpовский кpай,2005,2100.0,False,heat_len_km,R-3.docx:T76+T77
+33,Владимиpская область,2012,51.9,False,heat_replaced_km,R-3.docx:T81
+36,Воpонежская область,2012,47.6,False,heat_replaced_km,R-3.docx:T81
+37,Ивановская область,2012,42.0,False,heat_replaced_km,R-3.docx:T81
+40,Калужская область,2012,34.1,False,heat_replaced_km,R-3.docx:T81
+44,Костpомская область,2012,12.7,False,heat_replaced_km,R-3.docx:T81
+46,Куpская область,2012,13.6,False,heat_replaced_km,R-3.docx:T81
+48,Липецкая область,2012,31.0,False,heat_replaced_km,R-3.docx:T81
+50,Московская область,2012,303.8,False,heat_replaced_km,R-3.docx:T81
+31,Белгоpодская область,2012,39.5,False,heat_replaced_km,R-3.docx:T81
+32,Бpянская область,2012,35.0,False,heat_replaced_km,R-3.docx:T81
+61,Ростовская область,2012,47.5,False,heat_replaced_km,R-3.docx:T82
+05,Республика Дагестан,2012,40.0,False,heat_replaced_km,R-3.docx:T82
+06,Республика Ингушетия,2012,0.8,False,heat_replaced_km,R-3.docx:T82
+07,Кабаpдино-Балкаpская Республика,2012,9.9,False,heat_replaced_km,R-3.docx:T82
+09,Каpачаево-Чеpкесская Республика,2012,3.4,False,heat_replaced_km,R-3.docx:T82
+15,Республика Севеpная Осетия – Алания,2012,13.4,False,heat_replaced_km,R-3.docx:T82
+20,Чеченская Республика,2012,9.5,False,heat_replaced_km,R-3.docx:T82
+26,Ставpопольский кpай,2012,29.2,False,heat_replaced_km,R-3.docx:T82
+45,Куpганская область,2012,28.7,False,heat_replaced_km,R-3.docx:T82
+66,Свеpдловская область,2012,168.7,False,heat_replaced_km,R-3.docx:T82
+72,Тюменская область,2012,193.2,False,heat_replaced_km,R-3.docx:T82
+86,Ханты-Мансийский  автономный округ – Югра,2012,108.1,False,heat_replaced_km,R-3.docx:T82
+89,Ямало-Ненецкий  автономный округ,2012,46.4,False,heat_replaced_km,R-3.docx:T82
+74,Челябинская область,2012,132.0,False,heat_replaced_km,R-3.docx:T82
+04,Республика Алтай,2012,6.7,False,heat_replaced_km,R-3.docx:T83
+03,Республика Буpятия,2012,13.0,False,heat_replaced_km,R-3.docx:T83
+17,Республика Тыва,2012,8.0,False,heat_replaced_km,R-3.docx:T83
+19,Республика Хакасия,2012,13.4,False,heat_replaced_km,R-3.docx:T83
+22,Алтайский кpай,2012,63.2,False,heat_replaced_km,R-3.docx:T83
+75,Забайкальский край,2012,59.0,False,heat_replaced_km,R-3.docx:T83
+24,Красноярский край,2012,122.9,False,heat_replaced_km,R-3.docx:T83
+38,Иpкутская область,2012,73.2,False,heat_replaced_km,R-3.docx:T83
+42,Кемеpовская область,2012,95.3,False,heat_replaced_km,R-3.docx:T83
+54,Новосибиpская область,2012,106.3,False,heat_replaced_km,R-3.docx:T83
+55,Омская область,2012,86.7,False,heat_replaced_km,R-3.docx:T83
+70,Томская область,2012,20.4,False,heat_replaced_km,R-3.docx:T83
+87,Чукотский автономный окpуг,2012,4.2,False,heat_replaced_km,R-3.docx:T83
+43,Киpовская область,2010,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+52,Нижегоpодская область,2016,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+52,Нижегоpодская область,2017,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+52,Нижегоpодская область,2018,4000.0,False,heat_len_km,t_3_16.xlsx:3.16
+56,Оpенбуpгская область,2010,2500.0,False,heat_len_km,t_3_16.xlsx:3.16
+56,Оpенбуpгская область,2016,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+56,Оpенбуpгская область,2017,2200.0,False,heat_len_km,t_3_16.xlsx:3.16
+56,Оpенбуpгская область,2018,2200.0,False,heat_len_km,t_3_16.xlsx:3.16
+59,Пеpмский край,2018,3000.0,False,heat_len_km,t_3_16.xlsx:3.16
+63,Самаpская область,2016,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+43,Киpовская область,2016,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+43,Киpовская область,2017,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+43,Киpовская область,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+52,Нижегоpодская область,2010,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+21,Чувашская Республика,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+64,Саpатовская область,2018,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+12,Республика Маpий Эл,2017,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+12,Республика Маpий Эл,2018,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+20,Чеченская Республика,2018,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+26,Ставpопольский кpай,2010,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+26,Ставpопольский кpай,2016,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+26,Ставpопольский кpай,2017,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+64,Саpатовская область,2017,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+21,Чувашская Республика,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+73,Ульяновская область,2010,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+58,Пензенская область,2010,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+58,Пензенская область,2016,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+58,Пензенская область,2017,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+58,Пензенская область,2018,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+63,Самаpская область,2010,2900.0,False,heat_len_km,t_3_16.xlsx:3.16
+45,Куpганская область,2016,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+66,Свеpдловская область,2018,7600.0,False,heat_len_km,t_3_16.xlsx:3.16
+72,Тюменская область,2010,7500.0,False,heat_len_km,t_3_16.xlsx:3.16
+73,Ульяновская область,2016,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+73,Ульяновская область,2017,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+73,Ульяновская область,2018,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+45,Куpганская область,2010,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+66,Свеpдловская область,2017,7600.0,False,heat_len_km,t_3_16.xlsx:3.16
+45,Куpганская область,2017,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+63,Самаpская область,2017,3300.0,False,heat_len_km,t_3_16.xlsx:3.16
+63,Самаpская область,2018,3300.0,False,heat_len_km,t_3_16.xlsx:3.16
+64,Саpатовская область,2010,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+64,Саpатовская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+24,Красноярский край,2016,4700.0,False,heat_len_km,t_3_16.xlsx:3.16
+24,Красноярский край,2017,4800.0,False,heat_len_km,t_3_16.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2010,3600.0,False,heat_len_km,t_3_16.xlsx:3.16
+21,Чувашская Республика,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+59,Пеpмский край,2010,2900.0,False,heat_len_km,t_3_16.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2010,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2016,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+72,Тюменская область,2016,7400.0,False,heat_len_km,t_3_16.xlsx:3.16
+72,Тюменская область,2017,7200.0,False,heat_len_km,t_3_16.xlsx:3.16
+72,Тюменская область,2018,7100.0,False,heat_len_km,t_3_16.xlsx:3.16
+12,Республика Маpий Эл,2016,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2016,3700.0,False,heat_len_km,t_3_16.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2017,3500.0,False,heat_len_km,t_3_16.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2018,3500.0,False,heat_len_km,t_3_16.xlsx:3.16
+45,Куpганская область,2018,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+66,Свеpдловская область,2010,7500.0,False,heat_len_km,t_3_16.xlsx:3.16
+66,Свеpдловская область,2016,7700.0,False,heat_len_km,t_3_16.xlsx:3.16
+20,Чеченская Республика,2017,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+02,Республика Башкоpтостан,2010,4000.0,False,heat_len_km,t_3_16.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2016,400.0,False,heat_len_km,t_3_16.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2017,400.0,False,heat_len_km,t_3_16.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2018,400.0,False,heat_len_km,t_3_16.xlsx:3.16
+20,Чеченская Республика,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+20,Чеченская Республика,2016,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+26,Ставpопольский кpай,2018,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2017,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2018,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2016,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2017,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2018,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2010,400.0,False,heat_len_km,t_3_16.xlsx:3.16
+05,Республика Дагестан,2018,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+34,Волгогpадская область,2017,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+34,Волгогpадская область,2018,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+61,Ростовская область,2010,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+48,Липецкая область,2016,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+61,Ростовская область,2017,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+61,Ростовская область,2018,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+06,Республика Ингушетия,2010,0.0,False,heat_len_km,t_3_16.xlsx:3.16
+30,Астpаханская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+30,Астpаханская область,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+30,Астpаханская область,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+30,Астpаханская область,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+34,Волгогpадская область,2010,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+34,Волгогpадская область,2016,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+13,Республика Моpдовия,2018,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+18,Удмуpтская Республика,2016,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+18,Удмуpтская Республика,2017,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+18,Удмуpтская Республика,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+21,Чувашская Республика,2010,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+13,Республика Моpдовия,2010,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+13,Республика Моpдовия,2016,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+13,Республика Моpдовия,2017,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+18,Удмуpтская Республика,2010,2200.0,False,heat_len_km,t_3_16.xlsx:3.16
+16,Республика Татаpстан,2010,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+16,Республика Татаpстан,2016,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+02,Республика Башкоpтостан,2016,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+02,Республика Башкоpтостан,2017,4200.0,False,heat_len_km,t_3_16.xlsx:3.16
+02,Республика Башкоpтостан,2018,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+12,Республика Маpий Эл,2010,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+92,г.Севастополь,2017,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+06,Республика Ингушетия,2016,0.0,False,heat_len_km,t_3_16.xlsx:3.16
+06,Республика Ингушетия,2017,0.0,False,heat_len_km,t_3_16.xlsx:3.16
+06,Республика Ингушетия,2018,0.0,False,heat_len_km,t_3_16.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2010,400.0,False,heat_len_km,t_3_16.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2016,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+92,г.Севастополь,2016,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+24,Красноярский край,2018,4800.0,False,heat_len_km,t_3_16.xlsx:3.16
+92,г.Севастополь,2018,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+05,Республика Дагестан,2010,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+59,Пеpмский край,2016,3300.0,False,heat_len_km,t_3_16.xlsx:3.16
+59,Пеpмский край,2017,3300.0,False,heat_len_km,t_3_16.xlsx:3.16
+16,Республика Татаpстан,2017,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+16,Республика Татаpстан,2018,3100.0,False,heat_len_km,t_3_16.xlsx:3.16
+46,Куpская область,2017,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+46,Куpская область,2018,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+37,Ивановская область,2018,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+40,Калужская область,2010,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+40,Калужская область,2016,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+40,Калужская область,2017,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+40,Калужская область,2018,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+44,Костpомская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+46,Куpская область,2016,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+36,Воpонежская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+36,Воpонежская область,2017,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+36,Воpонежская область,2018,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+37,Ивановская область,2010,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+37,Ивановская область,2016,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+37,Ивановская область,2017,1500.0,False,heat_len_km,t_3_16.xlsx:3.16
+65,Сахалинская область,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+79,Евpейская автономная область,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+28,Амуpская область,2016,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+28,Амуpская область,2017,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+28,Амуpская область,2018,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+49,Магаданская область,2010,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+48,Липецкая область,2017,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+49,Магаданская область,2016,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+49,Магаданская область,2017,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+25,Пpимоpский кpай,2017,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+44,Костpомская область,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+44,Костpомская область,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+46,Куpская область,2010,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+50,Московская область,2018,11000.0,False,heat_len_km,t_3_16.xlsx:3.16
+32,Бpянская область,2018,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+25,Пpимоpский кpай,2018,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+68,Тамбовская область,2016,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+67,Смоленская область,2010,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+67,Смоленская область,2016,1340.0,False,heat_len_km,t_3_16.xlsx:3.16
+67,Смоленская область,2017,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+50,Московская область,2017,11000.0,False,heat_len_km,t_3_16.xlsx:3.16
+03,Республика Буpятия,2010,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+57,Оpловская область,2010,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+57,Оpловская область,2016,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+57,Оpловская область,2017,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+57,Оpловская область,2018,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+62,Рязанская область,2010,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+48,Липецкая область,2010,3100.0,False,heat_len_km,t_3_16.xlsx:3.16
+32,Бpянская область,2016,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+33,Владимиpская область,2010,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+33,Владимиpская область,2016,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+33,Владимиpская область,2017,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+33,Владимиpская область,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+77,г. Москва,2018,8800.0,False,heat_len_km,t_3_16.xlsx:3.16
+10,Республика Каpелия,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+32,Бpянская область,2017,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+65,Сахалинская область,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+32,Бpянская область,2010,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+31,Белгоpодская область,2018,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+31,Белгоpодская область,2017,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+31,Белгоpодская область,2016,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+31,Белгоpодская область,2010,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+44,Костpомская область,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2017,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+74,Челябинская область,2010,6300.0,False,heat_len_km,t_3_16.xlsx:3.16
+74,Челябинская область,2016,5700.0,False,heat_len_km,t_3_16.xlsx:3.16
+74,Челябинская область,2017,5600.0,False,heat_len_km,t_3_16.xlsx:3.16
+74,Челябинская область,2018,5500.0,False,heat_len_km,t_3_16.xlsx:3.16
+04,Республика Алтай,2010,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2010,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2016,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2018,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+03,Республика Буpятия,2018,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+14,Республика Саха (Якутия),2010,3800.0,False,heat_len_km,t_3_16.xlsx:3.16
+55,Омская область,2016,2700.0,False,heat_len_km,t_3_16.xlsx:3.16
+55,Омская область,2017,2700.0,False,heat_len_km,t_3_16.xlsx:3.16
+55,Омская область,2018,2600.0,False,heat_len_km,t_3_16.xlsx:3.16
+17,Республика Тыва,2018,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+19,Республика Хакасия,2010,700.0,False,heat_len_km,t_3_16.xlsx:3.16
+19,Республика Хакасия,2016,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+19,Республика Хакасия,2017,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+19,Республика Хакасия,2018,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+22,Алтайский кpай,2010,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+70,Томская область,2010,1500.0,False,heat_len_km,t_3_16.xlsx:3.16
+04,Республика Алтай,2016,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+04,Республика Алтай,2017,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+04,Республика Алтай,2018,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+17,Республика Тыва,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+17,Республика Тыва,2016,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+17,Республика Тыва,2017,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2017,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+87,Чукотский автономный окpуг,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+42,Кемеpовская область,2016,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+22,Алтайский кpай,2016,2900.0,False,heat_len_km,t_3_16.xlsx:3.16
+22,Алтайский кpай,2017,2900.0,False,heat_len_km,t_3_16.xlsx:3.16
+22,Алтайский кpай,2018,2900.0,False,heat_len_km,t_3_16.xlsx:3.16
+24,Красноярский край,2010,5700.0,False,heat_len_km,t_3_16.xlsx:3.16
+79,Евpейская автономная область,2016,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+79,Евpейская автономная область,2017,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+79,Евpейская автономная область,2018,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+87,Чукотский автономный окpуг,2016,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+87,Чукотский автономный окpуг,2017,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+87,Чукотский автономный окpуг,2018,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+49,Магаданская область,2018,500.0,False,heat_len_km,t_3_16.xlsx:3.16
+65,Сахалинская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+65,Сахалинская область,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+54,Новосибиpская область,2017,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+70,Томская область,2016,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+70,Томская область,2017,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+42,Кемеpовская область,2017,4300.0,False,heat_len_km,t_3_16.xlsx:3.16
+42,Кемеpовская область,2018,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+54,Новосибиpская область,2010,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+54,Новосибиpская область,2016,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+61,Ростовская область,2016,2400.0,False,heat_len_km,t_3_16.xlsx:3.16
+54,Новосибиpская область,2018,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+55,Омская область,2010,3200.0,False,heat_len_km,t_3_16.xlsx:3.16
+38,Иpкутская область,2010,3800.0,False,heat_len_km,t_3_16.xlsx:3.16
+38,Иpкутская область,2016,3900.0,False,heat_len_km,t_3_16.xlsx:3.16
+38,Иpкутская область,2017,3700.0,False,heat_len_km,t_3_16.xlsx:3.16
+38,Иpкутская область,2018,3600.0,False,heat_len_km,t_3_16.xlsx:3.16
+42,Кемеpовская область,2010,3600.0,False,heat_len_km,t_3_16.xlsx:3.16
+77,г. Москва,2017,8400.0,False,heat_len_km,t_3_16.xlsx:3.16
+11,Республика Коми,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+11,Республика Коми,2017,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+11,Республика Коми,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+29,Аpхангельская область,2010,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+29,Аpхангельская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+29,Аpхангельская область,2017,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2016,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+01,Республика Адыгея,2018,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+08,Республика Калмыкия,2010,200.0,False,heat_len_km,t_3_16.xlsx:3.16
+08,Республика Калмыкия,2016,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+08,Республика Калмыкия,2017,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+08,Республика Калмыкия,2018,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+39,Калинингpадская область,2010,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+47,Ленингpадская область,2017,2700.0,False,heat_len_km,t_3_16.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2017,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2018,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+35,Вологодская область,2010,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+35,Вологодская область,2016,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+35,Вологодская область,2017,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+35,Вологодская область,2018,1800.0,False,heat_len_km,t_3_16.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2010,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+29,Аpхангельская область,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+83,Ненецкий автономный округ,2010,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+83,Ненецкий автономный округ,2016,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+83,Ненецкий автономный округ,2017,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+83,Ненецкий автономный округ,2018,100.0,False,heat_len_km,t_3_16.xlsx:3.16
+91,Республика Крым,2017,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+51,Муpманская область,2016,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+51,Муpманская область,2017,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+51,Муpманская область,2018,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+53,Новгоpодская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+91,Республика Крым,2016,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+51,Муpманская область,2010,1100.0,False,heat_len_km,t_3_16.xlsx:3.16
+91,Республика Крым,2018,1400.0,False,heat_len_km,t_3_16.xlsx:3.16
+23,Кpаснодаpский кpай,2010,3500.0,False,heat_len_km,t_3_16.xlsx:3.16
+23,Кpаснодаpский кpай,2016,3600.0,False,heat_len_km,t_3_16.xlsx:3.16
+23,Кpаснодаpский кpай,2017,3700.0,False,heat_len_km,t_3_16.xlsx:3.16
+23,Кpаснодаpский кpай,2018,3700.0,False,heat_len_km,t_3_16.xlsx:3.16
+01,Республика Адыгея,2017,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+53,Новгоpодская область,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2016,4700.0,False,heat_len_km,t_3_16.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2017,4700.0,False,heat_len_km,t_3_16.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2018,4700.0,False,heat_len_km,t_3_16.xlsx:3.16
+01,Республика Адыгея,2010,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+01,Республика Адыгея,2016,300.0,False,heat_len_km,t_3_16.xlsx:3.16
+53,Новгоpодская область,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+47,Ленингpадская область,2016,2700.0,False,heat_len_km,t_3_16.xlsx:3.16
+53,Новгоpодская область,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+60,Псковская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+60,Псковская область,2016,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+60,Псковская область,2017,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+60,Псковская область,2018,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+47,Ленингpадская область,2018,2800.0,False,heat_len_km,t_3_16.xlsx:3.16
+68,Тамбовская область,2018,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+71,Тульская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+71,Тульская область,2017,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+71,Тульская область,2018,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+67,Смоленская область,2018,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+68,Тамбовская область,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+50,Московская область,2010,11700.0,False,heat_len_km,t_3_16.xlsx:3.16
+68,Тамбовская область,2017,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+69,Твеpская область,2010,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+39,Калинингpадская область,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+39,Калинингpадская область,2017,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+48,Липецкая область,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+27,Хабаpовский кpай,2010,2200.0,False,heat_len_km,t_3_16.xlsx:3.16
+76,Яpославская область,2018,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+10,Республика Каpелия,2016,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+10,Республика Каpелия,2017,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+10,Республика Каpелия,2018,1000.0,False,heat_len_km,t_3_16.xlsx:3.16
+11,Республика Коми,2010,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+76,Яpославская область,2010,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+76,Яpославская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+76,Яpославская область,2017,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+77,г. Москва,2010,7800.0,False,heat_len_km,t_3_16.xlsx:3.16
+77,г. Москва,2016,9900.0,False,heat_len_km,t_3_16.xlsx:3.16
+69,Твеpская область,2016,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+69,Твеpская область,2017,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+69,Твеpская область,2018,1900.0,False,heat_len_km,t_3_16.xlsx:3.16
+71,Тульская область,2010,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+03,Республика Буpятия,2017,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+75,Забайкальский край,2016,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+75,Забайкальский край,2017,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+75,Забайкальский край,2018,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+70,Томская область,2018,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+50,Московская область,2016,11000.0,False,heat_len_km,t_3_16.xlsx:3.16
+03,Республика Буpятия,2016,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+75,Забайкальский край,2010,2000.0,False,heat_len_km,t_3_16.xlsx:3.16
+36,Воpонежская область,2010,1600.0,False,heat_len_km,t_3_16.xlsx:3.16
+62,Рязанская область,2016,1300.0,False,heat_len_km,t_3_16.xlsx:3.16
+62,Рязанская область,2017,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+62,Рязанская область,2018,1200.0,False,heat_len_km,t_3_16.xlsx:3.16
+39,Калинингpадская область,2018,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+47,Ленингpадская область,2010,2700.0,False,heat_len_km,t_3_16.xlsx:3.16
+05,Республика Дагестан,2016,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+14,Республика Саха (Якутия),2018,4500.0,False,heat_len_km,t_3_16.xlsx:3.16
+14,Республика Саха (Якутия),2017,4100.0,False,heat_len_km,t_3_16.xlsx:3.16
+14,Республика Саха (Якутия),2016,4000.0,False,heat_len_km,t_3_16.xlsx:3.16
+25,Пpимоpский кpай,2016,2300.0,False,heat_len_km,t_3_16.xlsx:3.16
+25,Пpимоpский кpай,2010,2500.0,False,heat_len_km,t_3_16.xlsx:3.16
+41,Камчатский край,2018,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+41,Камчатский край,2017,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+41,Камчатский край,2016,800.0,False,heat_len_km,t_3_16.xlsx:3.16
+41,Камчатский край,2010,900.0,False,heat_len_km,t_3_16.xlsx:3.16
+28,Амуpская область,2010,1700.0,False,heat_len_km,t_3_16.xlsx:3.16
+27,Хабаpовский кpай,2018,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+27,Хабаpовский кpай,2017,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+27,Хабаpовский кpай,2016,2100.0,False,heat_len_km,t_3_16.xlsx:3.16
+05,Республика Дагестан,2017,600.0,False,heat_len_km,t_3_16.xlsx:3.16
+30,Астраханская область,2018,9.49,False,heat_replaced_km,t_3_18.xlsx:3.18
+29_noAO,Архангельская область без Ненецкого автономного округа,2018,43.68,False,heat_replaced_km,t_3_18.xlsx:3.18
+34,Волгоградская область,2018,39.46,False,heat_replaced_km,t_3_18.xlsx:3.18
+61,Ростовская область,2018,36.44,False,heat_replaced_km,t_3_18.xlsx:3.18
+92,г. Севастополь,2018,4.58,False,heat_replaced_km,t_3_18.xlsx:3.18
+05,Республика Дагестан,2018,23.84,False,heat_replaced_km,t_3_18.xlsx:3.18
+07,Кабардино-Балкарская Республика,2018,11.25,False,heat_replaced_km,t_3_18.xlsx:3.18
+09,Карачаево-Черкесская Республика,2018,4.98,False,heat_replaced_km,t_3_18.xlsx:3.18
+36,Воронежская область,2021,31.49,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+37,Ивановская область,2021,28.86,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+40,Калужская область,2021,30.26,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+44,Костромская область,2021,17.26,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+46,Курская область,2021,31.3,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+48,Липецкая область,2021,21.06,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+50,Московская область,2021,188.39,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+57,Орловская область,2021,14.17,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+28,Амурская область,2018,28.34,False,heat_replaced_km,t_3_18.xlsx:3.18
+49,Магаданская область,2018,10.02,False,heat_replaced_km,t_3_18.xlsx:3.18
+65,Сахалинская область,2018,34.13,False,heat_replaced_km,t_3_18.xlsx:3.18
+79,Еврейская автономная область,2018,2.5,False,heat_replaced_km,t_3_18.xlsx:3.18
+83,Ненецкий автономный округ,2018,2.56,False,heat_replaced_km,t_3_18.xlsx:3.18
+06,Республика Ингушетия,2021,0.6,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+63,Самарская область,2018,49.34,False,heat_replaced_km,t_3_18.xlsx:3.18
+05,Республика Дагестан,2021,25.21,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+07,Кабардино-Балкарская Республика,2021,18.86,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+09,Карачаево-Черкесская Республика,2021,3.79,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+15,Республика Северная Осетия - Алания,2021,4.8,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+53,Новгородская область,2021,13.09,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+60,Псковская область,2021,16.41,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+78,г.Санкт-Петербург,2021,73.08,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+01,Республика Адыгея,2021,1.78,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+56,Оренбургская область,2018,40.25,False,heat_replaced_km,t_3_18.xlsx:3.18
+58,Пензенская область,2018,31.2,False,heat_replaced_km,t_3_18.xlsx:3.18
+23,Краснодарский край,2018,50.16,False,heat_replaced_km,t_3_18.xlsx:3.18
+64,Саратовская область,2018,35.64,False,heat_replaced_km,t_3_18.xlsx:3.18
+15,Республика Северная Осетия - Алания,2018,9.93,False,heat_replaced_km,t_3_18.xlsx:3.18
+20,Чеченская Республика,2018,11.24,False,heat_replaced_km,t_3_18.xlsx:3.18
+26,Ставропольский край,2018,25.01,False,heat_replaced_km,t_3_18.xlsx:3.18
+02,Республика Башкортостан,2018,88.46,False,heat_replaced_km,t_3_18.xlsx:3.18
+12,Республика Марий Эл,2018,12.21,False,heat_replaced_km,t_3_18.xlsx:3.18
+13,Республика Мордовия,2018,19.93,False,heat_replaced_km,t_3_18.xlsx:3.18
+16,Республика Татарстан,2018,78.14,False,heat_replaced_km,t_3_18.xlsx:3.18
+18,Удмуртская Республика,2018,49.78,False,heat_replaced_km,t_3_18.xlsx:3.18
+45,Курганская область,2018,30.44,False,heat_replaced_km,t_3_18.xlsx:3.18
+60,Псковская область,2018,10.48,False,heat_replaced_km,t_3_18.xlsx:3.18
+53,Новгородская область,2018,15.18,False,heat_replaced_km,t_3_18.xlsx:3.18
+51,Мурманская область,2018,13.31,False,heat_replaced_km,t_3_18.xlsx:3.18
+47,Ленинградская область,2018,68.33,False,heat_replaced_km,t_3_18.xlsx:3.18
+31,Белгородская область,2018,27.06,False,heat_replaced_km,t_3_18.xlsx:3.18
+40,Калужская область,2018,61.18,False,heat_replaced_km,t_3_18.xlsx:3.18
+44,Костромская область,2018,19.41,False,heat_replaced_km,t_3_18.xlsx:3.18
+46,Курская область,2018,16.11,False,heat_replaced_km,t_3_18.xlsx:3.18
+48,Липецкая область,2018,11.96,False,heat_replaced_km,t_3_18.xlsx:3.18
+73,Ульяновская область,2018,28.15,False,heat_replaced_km,t_3_18.xlsx:3.18
+78,г.Санкт-Петербург,2018,84.68,False,heat_replaced_km,t_3_18.xlsx:3.18
+66,Свердловская область,2018,144.24,False,heat_replaced_km,t_3_18.xlsx:3.18
+72,Тюменская область,2018,103.91,False,heat_replaced_km,t_3_18.xlsx:3.18
+86,Ханты-Мансийский автономный округ-Югра,2018,51.75,False,heat_replaced_km,t_3_18.xlsx:3.18
+89,Ямало-Ненецкий автономный округ,2018,27.03,False,heat_replaced_km,t_3_18.xlsx:3.18
+72_noAO,Тюменская область без автономных округов,2018,25.13,False,heat_replaced_km,t_3_18.xlsx:3.18
+74,Челябинская область,2018,75.56,False,heat_replaced_km,t_3_18.xlsx:3.18
+21,Чувашская Республика,2018,14.44,False,heat_replaced_km,t_3_18.xlsx:3.18
+59,Пермский край,2018,43.24,False,heat_replaced_km,t_3_18.xlsx:3.18
+43,Кировская область,2018,32.4,False,heat_replaced_km,t_3_18.xlsx:3.18
+52,Нижегородская область,2018,84.55,False,heat_replaced_km,t_3_18.xlsx:3.18
+33,Владимирская область,2018,63.83,False,heat_replaced_km,t_3_18.xlsx:3.18
+39,Калининградская область,2018,7.97,False,heat_replaced_km,t_3_18.xlsx:3.18
+50,Московская область,2018,220.29,False,heat_replaced_km,t_3_18.xlsx:3.18
+57,Орловская область,2018,15.46,False,heat_replaced_km,t_3_18.xlsx:3.18
+62,Рязанская область,2018,43.19,False,heat_replaced_km,t_3_18.xlsx:3.18
+67,Смоленская область,2018,41.58,False,heat_replaced_km,t_3_18.xlsx:3.18
+68,Тамбовская область,2018,24.22,False,heat_replaced_km,t_3_18.xlsx:3.18
+69,Тверская область,2018,40.83,False,heat_replaced_km,t_3_18.xlsx:3.18
+71,Тульская область,2018,83.88,False,heat_replaced_km,t_3_18.xlsx:3.18
+76,Ярославская область,2018,41.3,False,heat_replaced_km,t_3_18.xlsx:3.18
+32,Брянская область,2018,56.32,False,heat_replaced_km,t_3_18.xlsx:3.18
+35,Вологодская область,2018,19.5,False,heat_replaced_km,t_3_18.xlsx:3.18
+36,Воронежская область,2018,44.17,False,heat_replaced_km,t_3_18.xlsx:3.18
+37,Ивановская область,2018,30.17,False,heat_replaced_km,t_3_18.xlsx:3.18
+29,Архангельская область,2018,46.24,False,heat_replaced_km,t_3_18.xlsx:3.18
+11,Республика  Коми,2018,29.74,False,heat_replaced_km,t_3_18.xlsx:3.18
+10,Республика Карелия,2018,10.94,False,heat_replaced_km,t_3_18.xlsx:3.18
+77,г.Москва,2018,54.71,False,heat_replaced_km,t_3_18.xlsx:3.18
+91,Республика Крым,2018,23.99,False,heat_replaced_km,t_3_18.xlsx:3.18
+08,Республика Калмыкия,2018,2.31,False,heat_replaced_km,t_3_18.xlsx:3.18
+01,Республика Адыгея,2018,3.07,False,heat_replaced_km,t_3_18.xlsx:3.18
+14,Республика Саха (Якутия),2021,136.08,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+59,Пермский край,2021,66.03,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+04,Республика Алтай,2021,1.92,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+74,Челябинская область,2021,91.75,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+72_noAO,Тюменская область без автономных округов,2021,34.32,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+89,Ямало-Ненецкий автономный округ,2021,35.15,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+28,Амурская область,2021,30.44,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+27,Хабаровский край,2021,59.88,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+25,Приморский край,2021,62.17,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+41,Камчатский край,2021,17.56,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+75,Забайкальский край,2021,41.44,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+43,Кировская область,2021,107.44,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+03,Республика Бурятия,2021,27.16,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+70,Томская область,2021,16.51,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+87,Чукотский автономный округ,2021,6.45,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+79,Еврейская автономная область,2021,3.28,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+65,Сахалинская область,2021,23.69,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+49,Магаданская область,2021,14.86,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+35,Вологодская область,2021,26.25,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+39,Калининградская область,2021,12.38,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+47,Ленинградская область,2021,55.57,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+51,Мурманская область,2021,18.49,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+13,Республика Мордовия,2021,16.14,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+83,Ненецкий автономный округ,2021,1.18,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+29,Архангельская область,2021,33.73,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+11,Республика  Коми,2021,33.51,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+30,Астраханская область,2021,5.68,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+23,Краснодарский край,2021,42.48,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+91,Республика Крым,2021,20.75,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+08,Республика Калмыкия,2021,3.6,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+21,Чувашская Республика,2021,13.82,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+18,Удмуртская Республика,2021,49.06,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+16,Республика Татарстан,2021,68.6,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+62,Рязанская область,2021,42.4,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+12,Республика Марий Эл,2021,12.16,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+02,Республика Башкортостан,2021,64.62,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+26,Ставропольский край,2021,20.88,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+20,Чеченская Республика,2021,3.84,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+73,Ульяновская область,2021,28.19,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+64,Саратовская область,2021,38.62,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+63,Самарская область,2021,74.58,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+58,Пензенская область,2021,35.65,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+56,Оренбургская область,2021,40.39,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+52,Нижегородская область,2021,116.3,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+04,Республика Алтай,2018,2.13,False,heat_replaced_km,t_3_18.xlsx:3.18
+32,Брянская область,2021,59.93,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+33,Владимирская область,2021,42.35,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+55,Омская область,2018,45.65,False,heat_replaced_km,t_3_18.xlsx:3.18
+70,Томская область,2018,15.89,False,heat_replaced_km,t_3_18.xlsx:3.18
+03,Республика Бурятия,2018,18.94,False,heat_replaced_km,t_3_18.xlsx:3.18
+14,Республика Саха (Якутия),2018,126.32,False,heat_replaced_km,t_3_18.xlsx:3.18
+75,Забайкальский край,2018,31.83,False,heat_replaced_km,t_3_18.xlsx:3.18
+41,Камчатский край,2018,15.06,False,heat_replaced_km,t_3_18.xlsx:3.18
+25,Приморский край,2018,49.74,False,heat_replaced_km,t_3_18.xlsx:3.18
+27,Хабаровский край,2018,60.82,False,heat_replaced_km,t_3_18.xlsx:3.18
+31,Белгородская область,2021,20.67,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+17,Республика Тыва,2018,3.22,False,heat_replaced_km,t_3_18.xlsx:3.18
+19,Республика Хакасия,2018,14.31,False,heat_replaced_km,t_3_18.xlsx:3.18
+22,Алтайский край,2018,50.43,False,heat_replaced_km,t_3_18.xlsx:3.18
+24,Красноярский край,2018,91.08,False,heat_replaced_km,t_3_18.xlsx:3.18
+38,Иркутская область,2018,45.04,False,heat_replaced_km,t_3_18.xlsx:3.18
+42,Кемеровская область,2018,59.78,False,heat_replaced_km,t_3_18.xlsx:3.18
+54,Новосибирская область,2018,61.31,False,heat_replaced_km,t_3_18.xlsx:3.18
+34,Волгоградская область,2021,22.29,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+61,Ростовская область,2021,29.75,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+92,г. Севастополь,2021,4.53,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+24,Красноярский край,2021,90.91,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+67,Смоленская область,2021,24.8,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+68,Тамбовская область,2021,19.93,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+69,Тверская область,2021,35.85,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+71,Тульская область,2021,53.82,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+76,Ярославская область,2021,34.39,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+77,г.Москва,2021,54.53,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+10,Республика Карелия,2021,17.79,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+17,Республика Тыва,2021,4.88,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+19,Республика Хакасия,2021,16.8,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+22,Алтайский край,2021,59.36,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+29_noAO,Архангельская область без Ненецкого автономного округа,2021,32.55,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+38,Иркутская область,2021,51.35,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+42,Кемеровская область - Кузбасс,2021,63.64,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+54,Новосибирская область,2021,63.94,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+55,Омская область,2021,52.78,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+45,Курганская область,2021,33.58,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+66,Свердловская область,2021,153.49,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+72,Тюменская область,2021,120.44,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+86,Ханты-Мансийский автономный округ-Югра,2021,50.97,False,heat_replaced_km,t_3_18_2.xlsx:3.18
+87,Чукотский автономный округ,2018,4.09,False,heat_replaced_km,t_3_18.xlsx:3.18
+49,Магаданская область,2022,471.18,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+49,Магаданская область,2023,459.77,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+49,Магаданская область,2024,469.81,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2021,2100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2022,2047.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2023,2035.87,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2024,2051.85,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2015,1808.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2024,982.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2015,291.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2020,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2023,1802.34,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2024,1795.94,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+49,Магаданская область,2015,478.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+49,Магаданская область,2020,400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+49,Магаданская область,2021,500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2020,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2021,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2022,279.33,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2015,907.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2022,960.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+65,Сахалинская область,2023,970.34,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2023,279.45,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2024,278.35,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2021,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2022,288.71,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2023,292.96,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+79,Евpейская автономная область,2024,301.08,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+87,Чукотский автономный окpуг,2015,291.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2024,1320.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2015,1355.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2020,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2020,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2022,1853.01,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2015,1333.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2021,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2022,1306.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2023,1315.37,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2022,1948.64,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2023,2007.87,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2024,2000.89,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2021,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2022,1178.75,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2023,1173.16,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+32,Бpянская область,2024,1159.11,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2015,2088.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2024,1335.19,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2015,1508.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2023,1808.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+33,Владимиpская область,2024,1817.77,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2015,1814.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2020,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+36,Воpонежская область,2021,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2022,910.84,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2015,1536.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2021,1400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2022,1348.31,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+37,Ивановская область,2023,1342.85,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2022,1072.93,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2023,1082.56,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2024,1045.29,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2021,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2022,1277.22,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2023,1291.34,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+40,Калужская область,2024,1312.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2015,909.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2024,960.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2015,11055.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2020,11000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2023,863.02,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+44,Костpомская область,2024,896.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2015,1105.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2020,1100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+46,Куpская область,2021,1100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2020,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2021,500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2022,536.56,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2015,2563.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2020,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2021,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2022,941.08,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+48,Липецкая область,2023,947.62,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2022,1163.21,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2023,1175.17,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2024,1179.55,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2021,11200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2022,11237.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2023,11350.83,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+50,Московская область,2024,11349.03,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2015,557.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2024,1224.11,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2015,1060.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2020,800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2023,537.03,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+57,Оpловская область,2024,531.59,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2015,1228.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2020,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+62,Рязанская область,2021,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2020,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2021,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2022,1763.29,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2015,1344.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2021,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2022,1191.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+67,Смоленская область,2023,1184.39,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2022,1944.23,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2023,1954.37,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2024,1992.62,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2021,800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2022,765.91,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2023,791.41,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+68,Тамбовская область,2024,786.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2015,1913.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2024,1831.97,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2015,8402.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2020,8800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2023,1777.53,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+69,Твеpская область,2024,1754.43,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2015,1850.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2020,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+71,Тульская область,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2022,906.17,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2015,1919.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2020,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2021,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2022,1834.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Яpославская область,2023,1818.05,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2022,2001.01,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2023,1981.89,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2024,1974.83,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2021,8800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2022,8936.68,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2023,9387.44,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+77,г. Москва,2024,9714.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2015,951.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2024,1976.04,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2015,81.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2020,100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2023,901.81,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+10,Республика Каpелия,2024,911.62,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2015,1956.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+11,Республика Коми,2021,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2020,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2022,1858.17,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2015,1880.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2022,1958.64,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29,Аpхангельская область,2023,1947.82,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2022,1799.53,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2023,1826.93,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2024,1770.57,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2021,100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2022,100.47,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2023,102.71,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+83,Ненецкий автономный округ,2024,102.71,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2015,1798.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2024,1019.18,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2015,2775.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2020,2500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2023,1845.11,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2024,1873.33,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2015,1805.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2020,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+35,Вологодская область,2021,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2020,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2021,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2022,1174.54,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2015,996.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2020,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2021,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2022,1072.28,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+39,Калинингpадская область,2023,1039.85,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2022,862.57,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2023,865.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2024,891.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2021,2600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2022,2557.07,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2023,2551.42,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+47,Ленингpадская область,2024,2522.86,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2015,1068.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2024,959.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2015,4519.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2020,4500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2023,1147.67,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+51,Муpманская область,2024,1142.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2015,942.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+53,Новгоpодская область,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2020,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2021,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2022,271.37,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2015,1039.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2020,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2021,1000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2022,954.34,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+60,Псковская область,2023,959.43,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2022,92.75,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2023,92.05,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2024,91.87,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2021,4600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2022,4602.44,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2023,4660.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+78,г. Санкт-Петеpбуpг,2024,3303.57,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2015,287.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2024,1276.14,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2015,3577.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2020,3700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2023,272.69,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+01,Республика Адыгея,2024,273.13,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2015,121.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2020,100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+08,Республика Калмыкия,2021,100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2022,1039.28,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2015,1468.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2021,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2022,1256.56,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+91,Республика Крым,2023,1269.88,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2022,2251.09,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2023,2245.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2024,2254.87,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2021,3500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2022,3614.86,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2023,3696.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+23,Кpаснодаpский кpай,2024,3679.92,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2015,890.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2024,2315.79,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2015,636.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2020,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2023,1025.77,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+30,Астpаханская область,2024,1063.38,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2015,2317.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2020,2300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+34,Волгогpадская область,2021,2200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2020,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2021,500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2022,496.39,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2015,2408.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2020,2400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2021,2300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2022,2316.76,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+61,Ростовская область,2023,2307.82,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2022,14.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2023,14.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2024,14.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2021,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2022,633.18,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2023,633.65,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+92,г.Севастополь,2024,629.22,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2015,587.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2024,463.16,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2015,224.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2020,200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2023,544.22,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+05,Республика Дагестан,2024,465.85,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2015,23.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2020,0.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+06,Республика Ингушетия,2021,0.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2020,400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2021,400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2022,372.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2015,411.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2020,500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2021,500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2022,466.61,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+07,Кабаpдино-Балкаpская Республика,2023,464.46,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2022,340.33,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2023,357.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2024,362.77,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2021,200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2022,207.42,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2023,193.12,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+09,Каpачаево-Чеpкесская Республика,2024,193.19,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2015,377.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2024,1283.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2015,4070.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2020,4000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2023,370.95,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+15,Республика Севеpная Осетия - Алания,2024,366.62,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2015,226.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2020,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+20,Чеченская Республика,2021,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2020,700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2021,700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2022,680.92,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2015,1594.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2021,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2022,1322.12,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+26,Ставpопольский кpай,2023,1281.96,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2022,687.92,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2023,687.44,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2024,692.48,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2021,3900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2022,3940.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2023,3871.03,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+02,Республика Башкоpтостан,2024,3836.04,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2015,683.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2024,3495.55,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2015,2216.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2020,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2023,677.16,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+12,Республика Маpий Эл,2024,689.12,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2015,778.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2020,700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+13,Республика Моpдовия,2021,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2020,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2021,900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2022,907.33,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2015,3143.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2020,3100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2021,3100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2022,3131.73,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+16,Республика Татаpстан,2023,3185.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2022,3453.58,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2023,3461.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2024,3475.44,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2022,1917.05,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2023,2021.92,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+18,Удмуpтская Республика,2024,1997.68,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2015,949.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2024,1997.21,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2015,4109.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2020,3900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2023,899.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+21,Чувашская Республика,2024,912.36,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2015,3357.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2020,3200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+59,Пеpмский край,2021,3300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2020,2200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2021,2200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2022,2160.68,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2015,1965.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2021,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2022,1984.89,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+43,Киpовская область,2023,1990.81,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2022,1219.95,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2023,1190.63,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2024,1180.82,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2021,3900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2022,3820.93,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2023,3872.06,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+52,Нижегоpодская область,2024,3960.48,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2015,2015.03,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2024,3270.69,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2015,1977.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2023,2107.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+56,Оpенбуpгская область,2024,2100.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2015,1188.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2020,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+58,Пензенская область,2021,1200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2020,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2021,1300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2022,1291.27,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2015,3148.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2020,3300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2021,3300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2022,3308.08,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+63,Самаpская область,2023,3292.76,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2022,1068.63,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2023,1043.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2024,1033.44,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2021,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2022,1876.17,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2023,1945.65,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+64,Саpатовская область,2024,1893.29,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2015,1354.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2024,7636.4,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2015,7419.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2020,7400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2023,1269.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+73,Ульяновская область,2024,1261.38,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2015,1141.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2020,1100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+45,Куpганская область,2021,1100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+76,Ярославская область,2024,36.88,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+77,г.Москва,2024,55.24,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+10,Республика Карелия,2024,13.64,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+11,Республика  Коми,2024,24.37,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+37,Ивановская область,2024,31.29,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+40,Калужская область,2024,50.53,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+44,Костромская область,2024,52.68,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+46,Курская область,2024,12.95,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+67,Смоленская область,2024,49.85,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+68,Тамбовская область,2024,19.86,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+69,Тверская область,2024,29.95,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+71,Тульская область,2024,66.08,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+16,Республика Татарстан,2024,70.38,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+18,Удмуртская Республика,2024,57.09,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+21,Чувашская Республика,2024,45.37,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+59,Пермский край,2024,85.75,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+61,Ростовская область,2024,39.72,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+92,г. Севастополь,2024,4.43,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+05,Республика Дагестан,2024,61.91,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+06,Республика Ингушетия,2024,0.6,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+26,Ставропольский край,2024,15.39,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+02,Республика Башкортостан,2024,41.76,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+12,Республика Марий Эл,2024,11.84,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+13,Республика Мордовия,2024,15.77,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+31,Белгородская область,2024,18.49,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+32,Брянская область,2024,59.63,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+33,Владимирская область,2024,34.84,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+36,Воронежская область,2024,40.64,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+48,Липецкая область,2024,21.06,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+50,Московская область,2024,215.9,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+57,Орловская область,2024,12.02,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+62,Рязанская область,2024,33.52,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+25,Приморский край,2024,75.4,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+27,Хабаровский край,2024,50.12,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+28,Амурская область,2024,21.99,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+49,Магаданская область,2024,12.75,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+19,Республика Хакасия,2024,6.95,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+22,Алтайский край,2024,53.58,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+24,Красноярский край,2024,73.89,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+38,Иркутская область,2024,28.36,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+39,Калининградская область,2024,6.75,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+47,Ленинградская область,2024,50.94,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+51,Мурманская область,2024,25.88,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+53,Новгородская область,2024,15.27,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+03,Республика Бурятия,2024,19.04,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+14,Республика Саха (Якутия),2024,88.8,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+75,Забайкальский край,2024,52.83,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+41,Камчатский край,2024,28.72,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+91,Республика Крым,2024,22.1,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+23,Краснодарский край,2024,50.92,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+30,Астраханская область,2024,7.24,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+34,Волгоградская область,2024,37.86,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+29,Архангельская область,2024,34.1,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+83,Ненецкий автономный округ,2024,1.34,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+29_noAO,Архангельская область без Ненецкого автономного округа,2024,32.76,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+35,Вологодская область,2024,44.9,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+07,Кабардино-Балкарская Республика,2024,10.2,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+09,Карачаево-Черкесская Республика,2024,2.84,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+15,Республика Северная Осетия - Алания,2024,3.07,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+20,Чеченская Республика,2024,6.38,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+60,Псковская область,2024,17.25,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+78,г.Санкт-Петербург,2024,48.57,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+01,Республика Адыгея,2024,1.78,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+08,Республика Калмыкия,2024,1.24,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+63,Самарская область,2024,62.29,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+64,Саратовская область,2024,30.02,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+73,Ульяновская область,2024,32.65,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+45,Курганская область,2024,24.63,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+65,Сахалинская область,2024,27.39,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+79,Еврейская автономная область,2024,3.34,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+87,Чукотский автономный округ,2024,3.07,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+72_noAO,Тюменская область без автономных округов,2024,32.88,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+74,Челябинская область,2024,82.07,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+04,Республика Алтай,2024,0.86,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+17,Республика Тыва,2024,3.44,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+43,Кировская область,2024,48.88,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+52,Нижегородская область,2024,181.81,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+56,Оренбургская область,2024,37.88,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+58,Пензенская область,2024,16.27,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+42,Кемеровская область,2024,55.98,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+54,Новосибирская область,2024,105.43,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+55,Омская область,2024,46.43,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+70,Томская область,2024,11.11,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+66,Свердловская область,2024,148.67,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+72,Тюменская область,2024,99.3,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+86,Ханты-Мансийский автономный округ-Югра,2024,34.25,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+89,Ямало-Ненецкий автономный округ,2024,32.17,False,heat_replaced_km,R_3_Жилищные_условия_населения.xlsx:3.18
+86,Ханты-Мансийский автономный округ - Югра,2020,3400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2021,3500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2022,3394.81,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2015,7720.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2020,7600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2021,7600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2022,7548.98,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+66,Свеpдловская область,2023,7566.24,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2022,1932.38,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2023,1912.02,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2024,1924.72,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2021,7300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2022,7172.36,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2023,7023.73,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72,Тюменская область,2024,7040.78,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2015,3677.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2024,1851.9,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2015,5999.799999999999,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2020,5400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2023,3290.65,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+86,Ханты-Мансийский автономный округ - Югра,2024,3264.16,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2015,1984.7,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+89,Ямало-Ненецкий автономный округ,2021,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2020,200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2021,200.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2022,210.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2015,1757.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2021,1900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2022,1845.17,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+72_noAO,Тюменская область без автономных округов,2023,1821.06,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2022,299.93,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2023,297.36,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2024,311.76,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2021,5400.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2022,5324.31,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2023,5297.51,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+74,Челябинская область,2024,5149.46,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2015,190.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2024,607.35,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2015,2984.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2020,3300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2023,201.96,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+04,Республика Алтай,2024,200.71,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2015,307.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2020,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+17,Республика Тыва,2021,300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2020,4900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2021,4900.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2022,4906.08,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2015,631.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2020,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2021,600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2022,598.46,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+19,Республика Хакасия,2023,606.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2022,3711.13,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2023,3704.26,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2024,3673.72,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2021,3300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2022,3340.75,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2023,3327.08,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+22,Алтайский кpай,2024,3290.28,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2015,4522.8,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2024,3796.18,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2015,3755.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2020,3600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2023,4886.64,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+24,Красноярский край,2024,4829.71,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2015,3891.5,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2020,3700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+38,Иpкутская область,2021,3700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2020,2500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2021,2500.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2022,2467.31,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2015,4057.400000000001,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2020,3800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2021,3800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2022,3838.47,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+42,Кемеpовская область,2023,3848.48,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2022,1608.84,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2023,1565.86,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2024,1557.34,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2021,3600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2022,3894.65,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2023,3844.03,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+54,Новосибиpская область,2024,3846.61,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2015,2833.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2024,1740.86,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2015,3911.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2020,4600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2023,2452.82,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+55,Омская область,2024,2437.29,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2015,1593.6,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2020,1600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+70,Томская область,2021,1600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2020,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2021,2000.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2022,1923.78,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2015,1603.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2020,1600.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2021,1700.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2022,1667.57,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+03,Республика Буpятия,2023,1705.13,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2022,847.51,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2023,848.74,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2024,860.24,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2021,4300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2022,4441.26,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2023,4350.67,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+14,Республика Саха (Якутия),2024,4548.05,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2015,2291.3,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2024,2409.66,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2015,2131.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+27,Хабаpовский кpай,2020,2100.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2023,1976.02,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+75,Забайкальский край,2024,2157.51,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2015,835.2,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2020,800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+41,Камчатский край,2021,800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2020,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2021,1800.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+28,Амуpская область,2022,1815.16,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2015,2258.1,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2020,2300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2021,2300.0,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2022,2310.72,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+25,Пpимоpский кpай,2023,2350.91,False,heat_len_km,R_3_Жилищные_условия_населения.xlsx:3.16
+31,Белгоpодская область,2019,1300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+32,Бpянская область,2019,1200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+33,Владимиpская область,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+36,Воpонежская область,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+37,Ивановская область,2019,1400.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+40,Калужская область,2019,1300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+44,Костpомская область,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+46,Куpская область,2019,1100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+48,Липецкая область,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+50,Московская область,2019,11200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+57,Оpловская область,2019,600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+62,Рязанская область,2019,1200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+67,Смоленская область,2019,1300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+68,Тамбовская область,2019,800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+69,Твеpская область,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+71,Тульская область,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+76,Яpославская область,2019,1800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+77,г. Москва,2019,8700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+10,Республика Каpелия,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+11,Республика Коми,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+29,Аpхангельская область,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+83,Ненецкий автономный округ,2019,100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+29_noAO,Архангельская область без Ненецкого автономного округа,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+35,Вологодская область,2019,1800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+39,Калинингpадская область,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+47,Ленингpадская область,2019,2700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+51,Муpманская область,2019,1000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+53,Новгоpодская область,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+60,Псковская область,2019,1100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+78,г. Санкт-Петеpбуpг,2019,4800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+01,Республика Адыгея,2019,300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+08,Республика Калмыкия,2019,100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+91,Республика Крым,2019,1300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+23,Кpаснодаpский кpай,2019,3700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+30,Астpаханская область,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+34,Волгогpадская область,2019,2200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+61,Ростовская область,2019,2400.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+92,г.Севастополь,2019,600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+05,Республика Дагестан,2019,600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+06,Республика Ингушетия,2019,0.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+07,Кабаpдино-Балкаpская Республика,2019,500.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+09,Каpачаево-Чеpкесская Республика,2019,200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+15,Республика Севеpная Осетия - Алания,2019,400.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+20,Чеченская Республика,2019,300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+26,Ставpопольский кpай,2019,1400.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+02,Республика Башкоpтостан,2019,4000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+12,Республика Маpий Эл,2019,700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+13,Республика Моpдовия,2019,700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+16,Республика Татаpстан,2019,3000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+18,Удмуpтская Республика,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+21,Чувашская Республика,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+59,Пеpмский край,2019,3100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+43,Киpовская область,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+52,Нижегоpодская область,2019,3900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+56,Оpенбуpгская область,2019,2200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+58,Пензенская область,2019,1200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+63,Самаpская область,2019,3300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+64,Саpатовская область,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+73,Ульяновская область,2019,1300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+45,Куpганская область,2019,1100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+66,Свеpдловская область,2019,7500.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+72,Тюменская область,2019,7200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+86,Ханты-Мансийский автономный округ - Югра,2019,3500.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+89,Ямало-Ненецкий автономный округ,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+72_noAO,Тюменская область без автономных округов,2019,1800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+74,Челябинская область,2019,5400.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+04,Республика Алтай,2019,200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+17,Республика Тыва,2019,300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+19,Республика Хакасия,2019,600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+22,Алтайский кpай,2019,3300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+24,Красноярский край,2019,4900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+38,Иpкутская область,2019,3700.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+42,Кемеpовская область - Кузбасс,2019,3900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+54,Новосибиpская область,2019,3800.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+55,Омская область,2019,2500.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+70,Томская область,2019,1600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+03,Республика Буpятия,2019,1600.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+14,Республика Саха (Якутия),2019,4200.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+75,Забайкальский край,2019,2000.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+41,Камчатский край,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+25,Пpимоpский кpай,2019,2300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+27,Хабаpовский кpай,2019,2100.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+28,Амуpская область,2019,1900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+49,Магаданская область,2019,500.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+65,Сахалинская область,2019,900.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+79,Евpейская автономная область,2019,300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
+87,Чукотский автономный окpуг,2019,300.0,False,heat_len_km,t_3_16.xlsx (выпуск 2022):3.16
