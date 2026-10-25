@@ -76,6 +76,5 @@ Two steps were done by hand and are not scripted: combining the regional heat-su
 
 - Municipal estimates: Callaway and Sant'Anna (2021) group-time ATTs with base year g−1 and not-yet-treated controls, averaged over event years 0-3 with cohort-size weights. Standard errors come from a region cluster bootstrap (1,999 draws, seed 1), implemented with city multiplicity weights; this is equivalent to resampling regions with replacement. Earlier working versions reported 2.28 instead of 2.14 for one standard error (corrected coding, 2010-2024, networks); the difference was Monte Carlo noise from 499 draws.
 - The conditional DiD (regression adjustment on 2010 characteristics) is exploratory, not the doubly robust estimator; because its bootstrap distribution is heavy-tailed, the paper reports percentile intervals (`ci_lo_pct`, `ci_hi_pct`).
-- Figures carry English labels, matching the English version of the paper.
 - Ownership (2019) and price zones are measured after most transitions; Table C1 is descriptive.
 - No formal sensitivity analysis for violations of parallel trends (Rambachan and Roth, 2023) is included.
