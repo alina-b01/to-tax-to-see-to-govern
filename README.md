@@ -1,6 +1,6 @@
 # Replication package
 #### Author: Alina Bikaeva *(alinab@uchicago.edu)*
-#### The University of Chicago. Harris School of Public Policy
+#### The University of Chicago, Harris School of Public Policy
 
 **To Tax, to See, to Govern: State Capacity and the Limits of Centralization in Russia** (working paper, October 2026). An early short version appeared in the Chicago Policy Review (2026) as “The Gluttonous Leviathan: How Russia's Digital Extraction Disguises Physical Decay”.
 
