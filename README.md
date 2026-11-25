@@ -4,15 +4,22 @@
 
 **To Tax, to See, to Govern: State Capacity and the Limits of Centralization in Russia** (working paper, October 2026). An early short version appeared in the Chicago Policy Review (2026) as “The Gluttonous Leviathan: How Russia's Digital Extraction Disguises Physical Decay”.
 
-The package reproduces every table, figure and number in the paper and its online appendix from the included data. Raw source files (Treasury and FNS archives, Rosstat and EMISS downloads, BDPMO extracts, NOAA station files) are not redistributed; the scripts in `build/` document how the included data were constructed from them.
+The package reproduces every table, figure and number in the paper and its online appendix from the included data. Raw source files (Treasury and FNS archives, Rosstat and EMISS downloads, BDPMO extracts, NOAA station files) are not redistributed; the scripts that construct the included data from them are available from the author on request.
+
+## Online appendix
+
+This repository serves as the online appendix to the paper:
+
+- **Appendix A** (data and replication): this README, `data/codebook.csv` and `docs/mayor_coding_2019_2024.xlsx`.
+- **Appendix B** (additional tables): Tables B1–B4 in `output/tables/` (`tableB1_regional_robustness.csv`, `tableB2_cohorts.csv`, `tableB3_municipal_robustness.csv`, `tableB4_horizons.csv`).
+- **Appendix C** (exploratory test of H2c): Table C1 in `output/tables/tableC1_heterogeneity.csv`, with ownership shares in `capital_ownership_2019.csv`.
 
 ## Layout
 
 ```
 analysis/   scripts that produce all results (run from this folder)
-build/      data construction from raw sources
-config/     budget classification codes used by build/parse_roskazna.py and build/parse_kbk.py
-data/       all datasets used by analysis/ and build/, plus codebook.csv
+config/     budget classification codes used in data construction
+data/       all datasets used by analysis/, plus codebook.csv
 docs/       manual verification of mayoral selection methods, 2019-2024 (English; city names in Russian)
 output/     tables/ (CSV) and figures/ (PNG) written by analysis/
 ```
@@ -28,6 +35,8 @@ Python 3.10+; `pip install -r requirements.txt`. Then
 Runtime is about 12 minutes on one CPU, almost all of it in `municipal.py` (1,999 bootstrap draws per specification). Sections can be run separately: `python municipal.py main timing robustness horizons heterogeneity conditional cohorts`. `figures.py` reads outputs of `descriptives.py` and `municipal.py`.
 
 ## Outputs
+
+Numbering below follows the full version of the paper. In the abridged version (writing sample), Figure 2 corresponds to Figure 3 here (`figures/figure3_event_study.png`) and Table 4 corresponds to Table 5 here (`tables/table5_reporting_jumps.csv`). Table 4 here (timing) is summarized in the text of section 6.5 of the abridged version, and Figure 2 here (binscatter) appears only in the full version. Tables 1–3, Figure 1 and Appendices B–C are numbered the same in both versions.
 
 | Paper | Script | File in output/ |
 |---|---|---|
@@ -62,13 +71,13 @@ Analysis datasets:
 | emiss_heat_long.csv | EMISS heat-network series for regions and administrative centers, by ownership. |
 | price_zones_heat.csv | Municipalities assigned to heat price zones, 2018-2023 (Ministry of Energy report for 2023, table 67). |
 
-Remaining files in `data/` are intermediate inputs of `build/`.
+Remaining files in `data/` are intermediate inputs used to construct the analysis datasets.
 
 Sources: Federal Treasury reports on consolidated regional budgets (form 0503317); FNS form 1-NM; Rosstat, Regions of Russia and housing statistics; EMISS; the Municipal Indicators Database (BDPMO) via tochno.st; NOAA GHCN-Daily; CPI by region (Rosstat); Ministry of Energy; mayoral selection data from Reuter et al. (2016) and Buckley, Reuter, Rochlitz and Aisin (2021, Harvard Dataverse, doi:10.7910/DVN/XD2KRJ); decision dates from Beazer, Buckley and Reuter (2026).
 
 ## Data construction
 
-Order of `build/` steps: `parse_roskazna.py` → `extract_transfer_lines.py` → `build_jkh_transfers.py`; `parse_fns_1nm.py`; `parse_rr_text.py`, `deflate.py`; `hdd_ghcn.py`; `parse_emiss_heat.py`; `build_heat_from_uploads.py`, `parse_minenergo_appendix.py`; `build_elections.py`; then `build_panel_h1.py` → `add_emiss_to_panel.py` → `add_climate_prices.py`. The city panel is built by `filter_tochno_budgets.py` → `build_city_panel.py` (raw BDPMO files in `$BDPMO_DIR`). `regions.py` and `parse_region_table.py` are shared helpers.
+The data-construction scripts are not included in this repository and are available from the author on request.
 
 Two steps were done by hand and are not scripted: combining the regional heat-supply series into `heat_region_combined_long.csv` (from the other `heat_*` files, preferring the latest statistical edition), and the city-level mayor coding (`mayors_*.csv`), built from the replication data cited above and verified manually for 2019-2024 as documented in `docs/mayor_coding_2019_2024.xlsx`.
 
